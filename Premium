@@ -1,0 +1,9 @@
+#EXTM3U PremiumTv-Sandu
+#EXTINF:-1 ,ATI FILM 
+http://catcast.ath.cx/redirect.php?id=42938.m3u8 
+#EXTINF:-1 ,CLASIC TV 
+https://s01.diazol.hu:9012/live.m3u8 
+#EXTINF:-1 ,WEBMOZI 
+https://vdo.ssl-stream.com:3093/multi_web/play_720.m3u8 
+#EXTINF:-1 ,MAXI NOW 
+http://catcast.ath.cx/redirect.php?id=41240.m3u8
