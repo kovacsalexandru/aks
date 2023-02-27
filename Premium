@@ -7,3 +7,5 @@ https://s01.diazol.hu:9012/live.m3u8
 https://vdo.ssl-stream.com:3093/multi_web/play_720.m3u8 
 #EXTINF:-1 ,MAXI NOW 
 http://catcast.ath.cx/redirect.php?id=41240.m3u8
+#EXTINF:-1 ,CINEMASTER
+http://catcast.ath.cx/redirect.php?id=41070. m3u8
