@@ -1,0 +1,298 @@
+#EXTM3U PremiumTv-Sandu
+#EXTINF:-1 ,ATI FILM 
+http://catcast.ath.cx/redirect.php?id=42938.m3u8 
+#EXTINF:-1 ,CLASIC TV 
+https://s01.diazol.hu:9012/live.m3u8 
+#EXTINF:-1 ,WEBMOZI 
+https://vdo.ssl-stream.com:3093/multi_web/play_720.m3u8 
+#EXTINF:-1 ,MAXI NOW 
+http://catcast.ath.cx/redirect.php?id=41240.m3u8
+#EXTINF:-1 ,CINEMASTER
+http://catcast.ath.cx/redirect.php?id=41070. m3u8
+#EXTINF:-1,NETFLIX HD
+http://srvr1.torba.fun/JdrPGwUYT1/mpegts?token=Bg7LFQ2gXvDAY8My
+#EXTINF:-1,MOVIEFLIX HD
+http://srvr1.torba.fun/I9pDJRbMZD/mpegts?token=Bg7LFQ2gXvDAY8My
+#EXTINF:-1,RETRO FILM HD
+http://srvr1.torba.fun/1Uvn1dHQwd/mpegts?token=Bg7LFQ2gXvDAY8My
+#EXTINF:-1,NETFLIX
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/9969
+#EXTINF:-1,NETFLIX AKCIÓ
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/10292
+#EXTINF:-1,NETFLIX DOKUMENTUM
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/10293
+#EXTINF:-1,24/7 AKCIÓ
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/9967
+#EXTINF:-1,24/7 HORROR
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/9983
+#EXTINF:-1,24/7 KOMÉDIA
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/9971
+#EXTINF:-1,24/7 Mr Bean
+#EXTINF:-1,AMC HD
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/3352
+#EXTINF:-1,Film Cafe HD
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/2919
+EXTINF:-1,Film Mania
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/57
+#EXTINF:-1,Film+ FHD
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/4742
+#EXTINF:-1,HBO 2 HD
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/3362
+#EXTINF:-1,HBO 3 HD
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/3346
+#EXTINF:-1,HBO HD
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/70
+#EXTINF:-1,Mozi+ FHD
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/2914
+#EXTINF:-1,HBO HD
+#EXTINF:-1,MARVEL & DC HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/76844
+#EXTINF:-1,MARVEL HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/104007
+#EXTINF:-1,DC UNIVERSE HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/104008
+#EXTINF:-1,HBO GO HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/70933
+#EXTINF:-1,HBO MAX HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/70964
+#EXTINF:-1,HBO ZONE HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/74669
+#EXTINF:-1,HBO FAMILY HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/76857
+#EXTINF:-1,HBO PLUS HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/76871
+#EXTINF:-1,HBO COMEDY HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/85419
+#EXTINF:-1,HBO SIGNATURE HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/96835
+#EXTINF:-1,HBO KIDS HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/100362
+#EXTINF:-1,5 STAR MAX HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/104001
+#EXTINF:-1,MORE MAX HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/104002
+#EXTINF:-1,MOVIE MAX HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/104003
+#EXTINF:-1,ACTION MAX HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/104004
+#EXTINF:-1,THRILLER MAX HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/104005
+#EXTINF:-1,OUTER MAX HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/104006
+#EXTINF:-1,FILM+ 2HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/74670
+#EXTINF:-1,FILM+ 3HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/76846
+#EXTINF:-1,FILM+ 4HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/77368
+#EXTINF:-1,FILM+ 5HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/77369
+#EXTINF:-1,DISNEY+ HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/71597
+#EXTINF:-1,DISNEY CINEMA HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/72031
+#EXTINF:-1,NETFLIX HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/73515
+#EXTINF:-1,NETFLIX 2 HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/100305
+#EXTINF:-1,NETFLIX 3 HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/100533
+#EXTINF:-1,STAR MOVIE CHANNEL HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/78947
+#EXTINF:-1,MAGIC CHANNEL HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/73929
+#EXTINF:-1,SCI-FI CHANNEL HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/78921
+#EXTINF:-1,AXN MOVIES HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/78180
+#EXTINF:-1,METRO GOLDWYN MAYER HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/73991
+#EXTINF:-1,WESTERN CHANNEL HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/76587
+#EXTINF:-1,RETRO SCI-FI HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/69747
+#EXTINF:-1,RETRO FAMILY HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/69746
+#EXTINF:-1,RETRO COMEDY HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/69653
+#EXTINF:-1,RETRO THRILLER HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/76199
+#EXTINF:-1,RETRO HORROR HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/71598
+#EXTINF:-1,ROYAL COMEDY HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/69689
+#EXTINF:-1,ROYAL FAMILY HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/98287
+#EXTINF:-1,ROYAL THRILLER HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/76590
+#EXTINF:-1,ROYAL HORROR HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/76589
+#EXTINF:-1,ROYAL ADAM SANDLER HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/48962
+#EXTINF:-1,ROYAL DENZEL WASHINGTON HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/76858
+#EXTINF:-1,ROYAL JACKIE CHAN HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/48966
+#EXTINF:-1,BEST JEAN CLAUDE VAN DAMME HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/92417
+#EXTINF:-1,BEST BUD SPENCER & TERENCE HILL HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/95544
+#EXTINF:-1,MOVIES 1 HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/95871
+#EXTINF:-1,MOVIES 2 HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/96148
+#EXTINF:-1,MOVIES 3 HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/96404
+#EXTINF:-1,MOVIES 4 HD
+http://infinite.royal-tv.xyz:8080/Putnoki/Tibor/96656
+http://srvr1.torba.fun/4bavqMBhtr/mpegts?token=Bg7LFQ2gXvDAY8My
+#EXTINF:-1,HBO2 HD
+http://srvr1.torba.fun/a88omVq3Dt/mpegts?token=Bg7LFQ2gXvDAY8My
+#EXTINF:-1,HBO3 HD
+http://srvr1.torba.fun/UDBQ31PaMI/mpegts?token=Bg7LFQ2gXvDAY8My
+#EXTINF:-1,Moziverzum HD
+http://ipwebtv.dyndns.tv:8000/EDIwhatsAppV/9FTrRbdd8d/3106
+#EXTINF:-1 tvg-id="52" tvg-name="MARVEL & DC HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MARVELDC.jpg?7784403" group-title="MAGYARORSZÁG PREMIUM",MARVEL & DC HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/76844?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MARVELSTUDIO.jpg?7784214" group-title="MAGYARORSZÁG PREMIUM",MARVEL HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/104007?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="DC UNIVERSE HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DC.jpg?7784215" group-title="MAGYARORSZÁG PREMIUM",DC UNIVERSE HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/104008?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="37" tvg-name="HBO GO HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOGO.jpg?7784181" group-title="MAGYARORSZÁG PREMIUM",HBO GO HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/70933?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="38" tvg-name="HBO MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOMAX.jpg?7784182" group-title="MAGYARORSZÁG PREMIUM",HBO MAX HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/70964?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="51" tvg-name="HBO ZONE HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOZONE.jpg?7784183" group-title="MAGYARORSZÁG PREMIUM",HBO ZONE HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/74669?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="62" tvg-name="HBO FAMILY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOFAMILY.jpg?7784184" group-title="MAGYARORSZÁG PREMIUM",HBO FAMILY HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/76857?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="64" tvg-name="HBO PLUS HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOPLUS.jpg?7784185" group-title="MAGYARORSZÁG PREMIUM",HBO PLUS HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/76871?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="70" tvg-name="HBO COMEDY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOCOMEDY.jpg?7784186" group-title="MAGYARORSZÁG PREMIUM",HBO COMEDY HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/85419?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="77" tvg-name="HBO SIGNATURE HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOSIGNATURE.jpg?7784187" group-title="MAGYARORSZÁG PREMIUM",HBO SIGNATURE HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/96835?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="82" tvg-name="HBO KIDS HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOKIDS.jpg?7784188" group-title="MAGYARORSZÁG PREMIUM",HBO KIDS HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/100362?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="5 STAR MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/5Star_Max.jpg?7789905" group-title="MAGYARORSZÁG PREMIUM",5 STAR MAX HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/104001?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MORE MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/More_Max_hd.jpg?7789911" group-title="MAGYARORSZÁG PREMIUM",MORE MAX HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/104002?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/movie_max.jpg?7789912" group-title="MAGYARORSZÁG PREMIUM",MOVIE MAX HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/104003?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="ACTION MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Action_Max.jpg?7789913" group-title="MAGYARORSZÁG PREMIUM",ACTION MAX HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/104004?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="THRILLER MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Thriller_Max.jpg?7789914" group-title="MAGYARORSZÁG PREMIUM",THRILLER MAX HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/104005?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="OUTER MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Outer_Max.jpg?7789918" group-title="MAGYARORSZÁG PREMIUM",OUTER MAX HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/104006?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="50" tvg-name="FILM+ 2HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/FILM_PLUS_2.jpg?7784189" group-title="MAGYARORSZÁG PREMIUM",FILM+ 2HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/74670?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="54" tvg-name="FILM+ 3HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/FILM_PLUS_3.jpg?7784190" group-title="MAGYARORSZÁG PREMIUM",FILM+ 3HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/76846?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="65" tvg-name="FILM+ 4HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/FILM_PLUS_4.jpg?7784191" group-title="MAGYARORSZÁG PREMIUM",FILM+ 4HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/77368?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="66" tvg-name="FILM+ 5HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/FILM_PLUS_5.jpg?7784192" group-title="MAGYARORSZÁG PREMIUM",FILM+ 5HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/77369?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="39" tvg-name="DISNEY+ HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_.jpg?7784193" group-title="MAGYARORSZÁG PREMIUM",DISNEY+ HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/71597?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="44" tvg-name="DISNEY CINEMA HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_CINEMAX.jpg?7784194" group-title="MAGYARORSZÁG PREMIUM",DISNEY CINEMA HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/72031?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="45" tvg-name="NETFLIX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/NETFIX.jpg?7784195" group-title="MAGYARORSZÁG PREMIUM",NETFLIX HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/73515?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="81" tvg-name="NETFLIX 2 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/NETFIX.jpg?7784195" group-title="MAGYARORSZÁG PREMIUM",NETFLIX 2 HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/100305?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="83" tvg-name="NETFLIX 3 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/NETFIX.jpg?7784195" group-title="MAGYARORSZÁG PREMIUM",NETFLIX 3 HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/100533?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="69" tvg-name="STAR MOVIE CHANNEL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/STARMOVIES.jpg?7784402" group-title="MAGYARORSZÁG PREMIUM",STAR MOVIE CHANNEL HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/78947?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="55" tvg-name="MAGIC CHANNEL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MAGICCAANNELTV.jpg?7784197" group-title="MAGYARORSZÁG PREMIUM",MAGIC CHANNEL HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/73929?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="68" tvg-name="SCI-FI CHANNEL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/SCIFICHANNEL.jpg?7784198" group-title="MAGYARORSZÁG PREMIUM",SCI-FI CHANNEL HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/78921?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="67" tvg-name="AXN MOVIES HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/AXNMOVIES.jpg?7784199" group-title="MAGYARORSZÁG PREMIUM",AXN MOVIES HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/78180?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="49" tvg-name="METRO GOLDWYN MAYER HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MGMCHANNEL.jpg?7784200" group-title="MAGYARORSZÁG PREMIUM",METRO GOLDWYN MAYER HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/73991?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="56" tvg-name="WESTERN CHANNEL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/WESTERNMOVIE.jpg?7784201" group-title="MAGYARORSZÁG PREMIUM",WESTERN CHANNEL HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/76587?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="40" tvg-name="RETRO SCI-FI HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" group-title="MAGYARORSZÁG PREMIUM",RETRO SCI-FI HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/69747?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="41" tvg-name="RETRO FAMILY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" group-title="MAGYARORSZÁG PREMIUM",RETRO FAMILY HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/69746?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="42" tvg-name="RETRO COMEDY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" group-title="MAGYARORSZÁG PREMIUM",RETRO COMEDY HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/69653?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="53" tvg-name="RETRO THRILLER HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" group-title="MAGYARORSZÁG PREMIUM",RETRO THRILLER HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/76199?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="43" tvg-name="RETRO HORROR HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" group-title="MAGYARORSZÁG PREMIUM",RETRO HORROR HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/71598?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="32" tvg-name="ROYAL COMEDY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL COMEDY HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/69689?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="79" tvg-name="ROYAL FAMILY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL FAMILY HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/98287?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="59" tvg-name="ROYAL THRILLER HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL THRILLER HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/76590?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="58" tvg-name="ROYAL HORROR HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL HORROR HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/76589?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="60" tvg-name="ROYAL ADAM SANDLER HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL ADAM SANDLER HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/48962?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="63" tvg-name="ROYAL DENZEL WASHINGTON HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL DENZEL WASHINGTON HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/76858?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="61" tvg-name="ROYAL JACKIE CHAN HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL JACKIE CHAN HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/48966?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="71" tvg-name="BEST JEAN CLAUDE VAN DAMME HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Movieschannel.jpg?7784209" group-title="MAGYARORSZÁG PREMIUM",BEST JEAN CLAUDE VAN DAMME HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/92417?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="72" tvg-name="BEST BUD SPENCER & TERENCE HILL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Movieschannel.jpg?7784209" group-title="MAGYARORSZÁG PREMIUM",BEST BUD SPENCER & TERENCE HILL HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/95544?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="73" tvg-name="MOVIES 1 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MOVIES1.jpg?7784210" group-title="MAGYARORSZÁG PREMIUM",MOVIES 1 HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/95871?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="74" tvg-name="MOVIES 2 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MOVIES2.jpg?7784211" group-title="MAGYARORSZÁG PREMIUM",MOVIES 2 HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/96148?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="75" tvg-name="MOVIES 3 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MOVIES3.jpg?7784212" group-title="MAGYARORSZÁG PREMIUM",MOVIES 3 HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/96404?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="76" tvg-name="MOVIES 4 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MOVIES4.jpg?7784213" group-title="MAGYARORSZÁG PREMIUM",MOVIES 4 HD
+http://royal-cdn.eu:8080/SzaszIstvan1/kyg1aW8/96656?utc=1674494900&lutc=1674494900
+#EXTINF:-1 catchup="default" catchup-source="http://srvr1.torba.fun/4bavqMBhtr/mpegts?token=pqFrLaeZndS3K4Yk&utc=${start}" catchup-days="7" timeshift="7" tvg-id="295" tvg-logo="http://torba.live/storage/iptv/channels/slVqsFKQVR.png" tvg-name="HBO HD" ,HBO HD
+http://srvr1.torba.fun/4bavqMBhtr/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="535"  tvg-name="HBO2 HD" ,HBO2 HD
+http://srvr1.torba.fun/a88omVq3Dt/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="637"  tvg-name="HBO3 HD" ,HBO3 HD
+http://srvr1.torba.fun/UDBQ31PaMI/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="500"  tvg-name="HBO HD+" ,HBO HD+
+http://srvr1.torba.fun/PrG1jkQ58a/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 catchup="default" catchup-source="http://srvr1.torba.fun/r4yiHA4DLQ/mpegts?token=pqFrLaeZndS3K4Yk&utc=${start}" catchup-days="4" timeshift="4" tvg-id="138" tvg-logo="http://torba.live/storage/iptv/channels/EewaJWlg53.png" tvg-name="HBO" ,HBO
+http://srvr1.torba.fun/r4yiHA4DLQ/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 catchup="default" catchup-source="http://srvr1.torba.fun/RmvTNHLsxT/mpegts?token=pqFrLaeZndS3K4Yk&utc=${start}" catchup-days="4" timeshift="4" tvg-id="195" tvg-logo="http://torba.live/storage/iptv/channels/O3hwYn3to1.png" tvg-name="HBO2" ,HBO2
+http://srvr1.torba.fun/RmvTNHLsxT/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 catchup="default" catchup-source="http://srvr1.torba.fun/Ov6RF2MTAK/mpegts?token=pqFrLaeZndS3K4Yk&utc=${start}" catchup-days="4" timeshift="4" tvg-id="349"  tvg-name="HBO3" ,HBO3
+http://srvr1.torba.fun/Ov6RF2MTAK/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="490"  tvg-name="Cinemax HD" ,Cinemax HD
+http://srvr1.torba.fun/XKLTduzh2g/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="1507"  tvg-name="Cinemax1HD" ,Cinemax1HD
+http://srvr1.torba.fun/1vY1YGEQzB/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="1508"  tvg-name="Cinemax2HD" ,Cinemax2HD
+http://srvr1.torba.fun/H6YleIePAl/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 catchup="default" catchup-source="http://srvr1.torba.fun/uw1U2hIElo/mpegts?token=pqFrLaeZndS3K4Yk&utc=${start}" catchup-days="4" timeshift="4" tvg-id="199" tvg-logo="http://torba.live/storage/iptv/channels/WjTh5Gebst.png" tvg-name="Cinemax" ,Cinemax
+http://srvr1.torba.fun/uw1U2hIElo/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 catchup="default" catchup-source="http://srvr1.torba.fun/zrmyv5NS7s/mpegts?token=pqFrLaeZndS3K4Yk&utc=${start}" catchup-days="4" timeshift="4" tvg-id="291" tvg-logo="http://torba.live/storage/iptv/channels/SpSBBI6Ulm.png" tvg-name="Cinemax2" ,Cinemax2
+http://srvr1.torba.fun/zrmyv5NS7s/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="216" tvg-logo="http://torba.live/storage/iptv/channels/S3yS30y6FY.png" tvg-name="FilmBox Extra HD" ,FilmBox Extra HD
+http://srvr1.torba.fun/jI7paTRj3U/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="211" tvg-logo="http://torba.live/storage/iptv/channels/9DIjSfeqmI.png" tvg-name="Filmbox Premium" ,Filmbox Premium
+http://srvr1.torba.fun/lqDergqE80/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="167" tvg-logo="http://torba.live/storage/iptv/channels/cVTdNPknMt.png" tvg-name="Filmbox Star" ,Filmbox Star
+http://srvr1.torba.fun/nd3uzZOvwB/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="581"  tvg-name="Film+ hd" ,Film+ hd
+http://srvr1.torba.fun/YTzJkupUvh/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 catchup="default" catchup-source="http://srvr1.torba.fun/cH6Rl5RXLP/mpegts?token=pqFrLaeZndS3K4Yk&utc=${start}" catchup-days="4" timeshift="4" tvg-id="153" tvg-logo="http://torba.live/storage/iptv/channels/DWAxrNcjen.png" tvg-name="Film+" ,Film+
+http://srvr1.torba.fun/cH6Rl5RXLP/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="179" tvg-logo="http://torba.live/storage/iptv/channels/JRh5MIhzPL.png" tvg-name="Film Cafe" ,Film Cafe
+http://srvr1.torba.fun/lNgDwgMOQB/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="339"  tvg-name="Film Mania" ,Film Mania
+http://srvr1.torba.fun/lYm2KVLjtc/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1  tvg-id="354"  tvg-name="FILMBOX" ,FILMBOX
+http://srvr1.torba.fun/1vgI9ejaTb/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 catchup="default" catchup-source="http://srvr1.torba.fun/bEZDSduUmV/mpegts?token=pqFrLaeZndS3K4Yk&utc=${start}" catchup-days="4" timeshift="4" tvg-id="573"  tvg-name="Film 4" ,Film 4
+http://srvr1.torba.fun/bEZDSduUmV/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 catchup="default" catchup-source="http://srvr1.torba.fun/CUEzl8GPpB/mpegts?token=pqFrLaeZndS3K4Yk&utc=${start}" catchup-days="4" timeshift="4" tvg-id="638"  tvg-name="Moziverzum" ,Moziverzum
+http://srvr1.torba.fun/CUEzl8GPpB/mpegts?token=pqFrLaeZndS3K4Yk
