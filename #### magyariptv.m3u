@@ -1,0 +1,219 @@
+#EXTM3U
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/300.jpg" tvg-id="1e367663ff5bf252e03e45d7c9bfbe6a",AMC
+http://magyariptv.ddns.net:55510/stream/channelid/1668691486?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/756.jpg" tvg-id="16601315eebb823aebb862a7a0feb327",Animal Planet
+http://magyariptv.ddns.net:55510/stream/channelid/353591318?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/678.jpg" tvg-id="1fdcb54f492cd9863f40ec604968fc00",Arena4
+http://magyariptv.ddns.net:55510/stream/channelid/1337318431?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/324.jpg" tvg-id="afc6ff73c6f7e28e6da1546674c55f50",ATV
+http://magyariptv.ddns.net:55510/stream/channelid/1946142383?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/666.jpg" tvg-id="5186dfe4f358b02cec4f08dc5ddb36ba",ATV Spirit
+http://magyariptv.ddns.net:55510/stream/channelid/1692370513?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/696.jpg" tvg-id="51b38180c973efd42074afddaf4d920f",Auto Motor Sport
+http://magyariptv.ddns.net:55510/stream/channelid/8500049?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/250.jpg" tvg-id="d1f803a8888b11b739857f58ec867cc6",AXN
+http://magyariptv.ddns.net:55510/stream/channelid/671348945?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/462.jpg" tvg-id="26bc81c73a0249e780c219ffb897e32b",BBC Earth
+http://magyariptv.ddns.net:55510/stream/channelid/1199684646?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/722.jpg" tvg-id="5fde6198c0e29ea6463302de36f0ab6b",Cartoon Network
+http://magyariptv.ddns.net:55510/stream/channelid/409067103?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/460.jpg" tvg-id="28bcea0f7898eae16a06e4f408226dba",CBS Reality
+http://magyariptv.ddns.net:55510/stream/channelid/267041832?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/694.jpg" tvg-id="a4340e275189ad7bb264b5bcc643cfc4",Cinemax
+http://magyariptv.ddns.net:55510/stream/channelid/655242404?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/694.jpg" tvg-id="eb867fde79e42189e8d21892e12944c7",Cinemax
+http://magyariptv.ddns.net:55510/stream/channelid/1585415915?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/706.jpg" tvg-id="f8c6b09018ef1438f17f61b0d27e9430",Cinemax 2
+http://magyariptv.ddns.net:55510/stream/channelid/280020728?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/706.jpg" tvg-id="9a42f4f68687ffd87984e907f9e89f65",Cinemax 2
+http://magyariptv.ddns.net:55510/stream/channelid/1995719322?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://www.musor.tv/images/club_mtv_2021.svg" tvg-id="f619478eadbd0df2fd1eb6475ede63b1",Club MTV
+http://magyariptv.ddns.net:55510/stream/channelid/239540726?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/386.jpg" tvg-id="f8d2b346bd67308bfc7a5f12c98e77a4",Comedy Central
+http://magyariptv.ddns.net:55510/stream/channelid/1186190072?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/544.jpg" tvg-id="38c6fbaa6187f90655113f0b4d87a73d",Comedy Central Family
+http://magyariptv.ddns.net:55510/stream/channelid/721143352?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/264.jpg" tvg-id="059cc40f503485cac6cefd1bc92ad9bd",Cool TV
+http://magyariptv.ddns.net:55510/stream/channelid/264543237?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://www.musor.tv/images/dikh_tv.svg" tvg-id="f860a4410b48e46673a196fb127cc5ad",DIKH TV
+http://magyariptv.ddns.net:55510/stream/channelid/1101291768?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 tvg-id="f751fab0744909cd2bc0cf78afe4521b",Direct One FHD
+http://magyariptv.ddns.net:55510/stream/channelid/821711351?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/758.jpg" tvg-id="bf264b4737d5669150f97a5ce53ea447",Discovery Channel
+http://magyariptv.ddns.net:55510/stream/channelid/1196107455?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/508.jpg" tvg-id="cca4b1c7fa5568f1932bcd9325c9fab5",Discovery Turbo Xtra
+http://magyariptv.ddns.net:55510/stream/channelid/1202824396?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/558.jpg" tvg-id="2ce9df772d79391e6e3610eac763c912",Disney Channel
+http://magyariptv.ddns.net:55510/stream/channelid/2011162924?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/704.jpg" tvg-id="127ffbc279d9de543f978ea22568dd4b",DUNA
+http://magyariptv.ddns.net:55510/stream/channelid/1123778322?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/286.jpg" tvg-id="d57afbc6dc4a60eed863a8448e917c8e",DUNA WORLD
+http://magyariptv.ddns.net:55510/stream/channelid/1190886101?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/724.jpg" tvg-id="8ea1dc2be7e966e9ca865c28ac075589",Eurosport
+http://magyariptv.ddns.net:55510/stream/channelid/735879566?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/676.jpg" tvg-id="0cde48fe53aa2bb7d4f2b2213435c791",Eurosport 2
+http://magyariptv.ddns.net:55510/stream/channelid/2118704652?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/528.jpg" tvg-id="a5e98ec1a5607e69e6bc3331bb5ccd32",FEM3
+http://magyariptv.ddns.net:55510/stream/channelid/1099884965?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://www.musor.tv/images/fightbox_hd_small.png" tvg-id="0aca13ebf3911007dc38dd3e7340df45",Fightbox
+http://magyariptv.ddns.net:55510/stream/channelid/1796459018?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/716.jpg" tvg-id="17884d85b4bc8411f3980baee78c5a6e",Film Cafe
+http://magyariptv.ddns.net:55510/stream/channelid/88967191?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/726.jpg" tvg-id="415a1920bbbeaca99b3c0037e7aa7ecb",Film Mania
+http://magyariptv.ddns.net:55510/stream/channelid/538532417?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/548.jpg" tvg-id="cb21beaa3ffda2533aad0e0981dbc48b",Film+
+http://magyariptv.ddns.net:55510/stream/channelid/717103563?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/734.jpg" tvg-id="4d646ec80371f1a42d4e01ebcaacab40",Film4
+http://magyariptv.ddns.net:55510/stream/channelid/1215194189?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/422.jpg" tvg-id="8e58339eccccee80416b6ab19e5b4134",Filmbox
+http://magyariptv.ddns.net:55510/stream/channelid/506681486?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/364.jpg" tvg-id="e94a6810a5d578658086029c20c99d64",Filmbox Extra HD
+http://magyariptv.ddns.net:55510/stream/channelid/275270377?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/420.jpg" tvg-id="81edbfd65877df737bb3791f802217f2",Filmbox Plus
+http://magyariptv.ddns.net:55510/stream/channelid/1455418753?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/370.jpg" tvg-id="7958e0d6b635c46223c9f13860759601",Filmbox Premium
+http://magyariptv.ddns.net:55510/stream/channelid/1457543289?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/490.jpg" tvg-id="ad08a31f5204d2f661b6565b9b951b87",Galaxy4
+http://magyariptv.ddns.net:55510/stream/channelid/530778285?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/712.jpg" tvg-id="de5a863205b73377ba1b2f19eb33ee37",HBO
+http://magyariptv.ddns.net:55510/stream/channelid/847665886?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/712.jpg" tvg-id="c4337f662bc16d07b06d062d6f485732",HBO
+http://magyariptv.ddns.net:55510/stream/channelid/1719612356?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/702.jpg" tvg-id="37271d9999b6e220b155bf05cba79f8b",HBO 2
+http://magyariptv.ddns.net:55510/stream/channelid/421340983?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/702.jpg" tvg-id="683c616fb6f3e54cfc603da44c27aaad",HBO 2
+http://magyariptv.ddns.net:55510/stream/channelid/1868643432?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/248.jpg" tvg-id="2172d64508949c5a4696a00a670ad90e",HBO 3
+http://magyariptv.ddns.net:55510/stream/channelid/1171681825?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/248.jpg" tvg-id="ae3c5077ef95b68400afb15fdee925c4",HBO 3
+http://magyariptv.ddns.net:55510/stream/channelid/2001747118?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://www.musor.tv/images/hgtv.svg" tvg-id="4da32740f47071290a8770fbb2581ce3",HGTV
+http://magyariptv.ddns.net:55510/stream/channelid/1076339533?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/282.jpg" tvg-id="4c5a3e00f74965f3e979467efa76e6bf",Hir TV
+http://magyariptv.ddns.net:55510/stream/channelid/4086348?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/374.jpg" tvg-id="a1ca50e55b87b3e548f76dd12c217bee",HISTORY
+http://magyariptv.ddns.net:55510/stream/channelid/1699793569?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/482.jpg" tvg-id="1737e7066b1b77504d5c51110d516224",Investigation Discovery
+http://magyariptv.ddns.net:55510/stream/channelid/115816215?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/520.jpg" tvg-id="ce972c3392c540aaa56e5a417186727e",Izaura TV
+http://magyariptv.ddns.net:55510/stream/channelid/858560462?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/744.jpg" tvg-id="9698bb4b34286c1214241f2d42d06106",JimJam
+http://magyariptv.ddns.net:55510/stream/channelid/1270585494?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/754.jpg" tvg-id="6d96f404ff670482b1679dc82f04dbf6",Jocky TV
+http://magyariptv.ddns.net:55510/stream/channelid/83138157?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/402.jpg" tvg-id="72e5e3cced26abeb40d6082e67e6f801",LifeTV
+http://magyariptv.ddns.net:55510/stream/channelid/1290003826?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 tvg-id="74cc28b130d61bdc99eb43d94d85b3aa",Love Nature FHD
+http://magyariptv.ddns.net:55510/stream/channelid/824757364?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/280.jpg" tvg-id="568942731ff97ecccb3a92872502166f",M1
+http://magyariptv.ddns.net:55510/stream/channelid/1933740374?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/392.jpg" tvg-id="9f8b232f703cca98c5270c6667a2f6e1",M2
+http://magyariptv.ddns.net:55510/stream/channelid/790858655?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/496.jpg" tvg-id="5f40e7cb4f03f5bb1e620c4f6a539764",M4 Sport
+http://magyariptv.ddns.net:55510/stream/channelid/1273446495?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/514.jpg" tvg-id="2cb6582f54deb36193f1f6e45b851cc8",M5
+http://magyariptv.ddns.net:55510/stream/channelid/794342956?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/674.jpg" tvg-id="1d0b35bae16bb26ab94e1014aeb46065",Match 4
+http://magyariptv.ddns.net:55510/stream/channelid/976554781?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/674.jpg" tvg-id="ab8b79e9574a9729e4ff05182ee8bead",Match 4
+http://magyariptv.ddns.net:55510/stream/channelid/1769573291?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 tvg-id="175bf878fc414fdc9809c7e4b70a3bf9",Max4
+http://magyariptv.ddns.net:55510/stream/channelid/2029542167?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/348.jpg" tvg-id="a5595ade9198e080dbaab89b297cddb9",Minimax
+http://magyariptv.ddns.net:55510/stream/channelid/1582979493?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/438.jpg" tvg-id="b413f1781f1a113deb438cb8d052bb6e",Mozi+
+http://magyariptv.ddns.net:55510/stream/channelid/2029065140?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/668.jpg" tvg-id="b539a91a66e7806edbb92d7e60cecd39",Moziverzum
+http://magyariptv.ddns.net:55510/stream/channelid/447297973?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://www.musor.tv/images/mtv00s.svg" tvg-id="e2e2abe75540539492c7cad6394adf14",MTV 00S
+http://magyariptv.ddns.net:55510/stream/channelid/1739317986?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://www.musor.tv/images/mtv_80s_small.png" tvg-id="99ebefb235027b9dd1e63a58ae65f9fe",MTV 80s
+http://magyariptv.ddns.net:55510/stream/channelid/854584217?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 tvg-id="50a1ef25dfefd70a837aea54ad7ffda8",MTV European
+http://magyariptv.ddns.net:55510/stream/channelid/636461392?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 tvg-id="e63170a88468e9452a6f08c1542cfc6f",MTV90s
+http://magyariptv.ddns.net:55510/stream/channelid/678441446?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 tvg-id="4902e1ce19451ed2de2ee5f2152ebddf",MTVHits
+http://magyariptv.ddns.net:55510/stream/channelid/1323369033?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/700.jpg" tvg-id="ead7b694048fc2ec5eb618030b681597",Muzsika TV
+http://magyariptv.ddns.net:55510/stream/channelid/347527146?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/346.jpg" tvg-id="e6ab98a48b98572254ccb0da8e592127",Nat Geo HD
+http://magyariptv.ddns.net:55510/stream/channelid/613985254?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/500.jpg" tvg-id="a39e9996df075eafd21e2050706fb228",Nat Geo Wild HD
+http://magyariptv.ddns.net:55510/stream/channelid/379166371?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/688.jpg" tvg-id="082328f912bb0e17a292c8471e357fa8",Nickelodeon
+http://magyariptv.ddns.net:55510/stream/channelid/2032673544?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/670.jpg" tvg-id="d0d5aa42745036e6dc19fa85a4daca28",Nicktoons
+http://magyariptv.ddns.net:55510/stream/channelid/1118492112?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/406.jpg" tvg-id="f2e3bdad84425901c8e6cbc6aa5e569b",OzoneTV
+http://magyariptv.ddns.net:55510/stream/channelid/767419378?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/466.jpg" tvg-id="b1a0bd396b16626dcce41dc07f4d41d8",Paramount Channel
+http://magyariptv.ddns.net:55510/stream/channelid/968728753?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/748.jpg" tvg-id="e265b4cfb9dcdaa8b98c72903e548f3d",Prime
+http://magyariptv.ddns.net:55510/stream/channelid/1337222626?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/258.jpg" tvg-id="a52b2436299d9c632097ec52a476c720",RTL Gold
+http://magyariptv.ddns.net:55510/stream/channelid/908340133?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/328.jpg" tvg-id="d3c52d2843fc596e6af29b1195d9ace3",RTL harom
+http://magyariptv.ddns.net:55510/stream/channelid/674088403?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/426.jpg" tvg-id="198c2a88cf34ecb4c7ef7ae0f7bbb659",RTL HD
+http://magyariptv.ddns.net:55510/stream/channelid/137006105?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/766.jpg" tvg-id="4073d5c894b702eba801d28d03fa31ca",RTL ketto
+http://magyariptv.ddns.net:55510/stream/channelid/1221948224?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/698.jpg" tvg-id="07e852dcf0a8b64b6b15a13f66ab939d",Sorozat+
+http://magyariptv.ddns.net:55510/stream/channelid/1548937223?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/718.jpg" tvg-id="e820799edd634781cf66025578af77f1",Spektrum
+http://magyariptv.ddns.net:55510/stream/channelid/511254760?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/396.jpg" tvg-id="577b10a88d2caf7a6338df48d1cff584",Spektrum Home
+http://magyariptv.ddns.net:55510/stream/channelid/672168791?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/524.jpg" tvg-id="5a2ff1e4f9fb63ce19766ee9f8e9aec2",Spiler TV
+http://magyariptv.ddns.net:55510/stream/channelid/1693527898?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/664.jpg" tvg-id="0b9eb76800bd3e14cf92fa4aae197959",Spiler2 TV
+http://magyariptv.ddns.net:55510/stream/channelid/1756864011?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/720.jpg" tvg-id="543d096a5f91e69ea40c861f4ff93024",Sport 1
+http://magyariptv.ddns.net:55510/stream/channelid/1778990420?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/690.jpg" tvg-id="df56fffb6e7be87e75405997e91215d1",Sport 2
+http://magyariptv.ddns.net:55510/stream/channelid/2080331487?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="http://81.183.238.157:9981/imagecache/201" tvg-id="cb9e8c7979a3f2c1ecf6618bf37d23b7",StingrayiConcerts
+http://magyariptv.ddns.net:55510/stream/channelid/2039258827?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/434.jpg" tvg-id="014db7edbf14388bf7f444933ba59005",Story4
+http://magyariptv.ddns.net:55510/stream/channelid/1840729345?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/456.jpg" tvg-id="cb2fe5de217360a7d912397ff3510de1",Super TV2
+http://magyariptv.ddns.net:55510/stream/channelid/1592078283?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/684.jpg" tvg-id="bc72bd3ea0807b7e37f851ed0931c69f",TeenNick
+http://magyariptv.ddns.net:55510/stream/channelid/1052603068?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/366.jpg" tvg-id="d33bf7ffa6aec6aa8def355625606156",The Fishing & Hunting
+http://magyariptv.ddns.net:55510/stream/channelid/2146909139?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 tvg-id="d86940d89253549c9858974ad426d74f",TOTALDANCE FHD
+http://magyariptv.ddns.net:55510/stream/channelid/1480616408?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/692.jpg" tvg-id="c02fe762614eaae2baa6f9dd87061443",TV Paprika
+http://magyariptv.ddns.net:55510/stream/channelid/1659318208?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/752.jpg" tvg-id="266d66d1dc68401ef5ea3a935ed09363",TV2
+http://magyariptv.ddns.net:55510/stream/channelid/1365667110?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/538.jpg" tvg-id="8252d7b46ce130757186df89962d9b76",TV2 Comedy
+http://magyariptv.ddns.net:55510/stream/channelid/886526594?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/534.jpg" tvg-id="fa7ff16736fca1f9548cd466f6656185",Tv2 Kids
+http://magyariptv.ddns.net:55510/stream/channelid/1743880186?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/532.jpg" tvg-id="fd75805e0a290d45084bebb7562e3abd",Tv2 Sef
+http://magyariptv.ddns.net:55510/stream/channelid/1585477117?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/686.jpg" tvg-id="8b1648f150e9bb7e885c215d45e2a55f",TV4
+http://magyariptv.ddns.net:55510/stream/channelid/1900549771?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/760.jpg" tvg-id="f6bfea40294c6e5c2eb7405eca6d8d1e",Viasat 2
+http://magyariptv.ddns.net:55510/stream/channelid/1089126390?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/736.jpg" tvg-id="dcae6774bfeac9f2f9e0135bc196c499",Viasat Explore
+http://magyariptv.ddns.net:55510/stream/channelid/1952952028?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/762.jpg" tvg-id="ff2cc361f6b2e1bbed7d858960bca513",Viasat Film
+http://magyariptv.ddns.net:55510/stream/channelid/1640180991?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/262.jpg" tvg-id="3cac617f5daf7507b7397ca828534ea7",Viasat History
+http://magyariptv.ddns.net:55510/stream/channelid/2137107516?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/732.jpg" tvg-id="4c35bb53869b71acb483ab741c1d7561",Viasat Nature
+http://magyariptv.ddns.net:55510/stream/channelid/1404777804?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/732.jpg" tvg-id="2c18e3e7d6f2a2c86cd2d97f145d99db",Viasat Nature
+http://magyariptv.ddns.net:55510/stream/channelid/1742936108?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/746.jpg" tvg-id="d3e1567fdc20625df7c11ffd392532a7",VIASAT3
+http://magyariptv.ddns.net:55510/stream/channelid/2136400339?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/352.jpg" tvg-id="581053d9cf31463b0a2c290ecadfd3d0",VIASAT6
+http://magyariptv.ddns.net:55510/stream/channelid/1498615896?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 tvg-id="677a0a7c5e0d90b763d403acf0834f38",VIVA RUSSIA FHD
+http://magyariptv.ddns.net:55510/stream/channelid/2081061479?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
+#EXTINF:-1 logo="https://media.port.hu/images/001/545/100x100/518.jpg" tvg-id="f642815a514f10df3f0d4ed8d0bcc21b",Zenebutik
+http://magyariptv.ddns.net:55510/stream/channelid/1518420726?auth=PhMbEjWFlgkOTjpk-4Ekj.kq5-iY&profile=pass
