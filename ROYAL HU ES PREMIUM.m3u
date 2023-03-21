@@ -1,0 +1,585 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RELAX" timeshift="0" tvg-logo="https://pngimg.com/uploads/letter_r/letter_r_PNG93920.png" group-title="MAGYARORSZÁG",RELAX
+http://royal-cdn.eu:8080/Putnoki/Tibor/99084?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 FHD" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/M_1_HD.jpg?7781899" group-title="MAGYARORSZÁG",M1 FHD
+http://royal-cdn.eu:8080/Putnoki/Tibor/43262?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/M_1_HD.jpg?7781899" group-title="MAGYARORSZÁG",M1 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/63?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="m1.hu" tvg-name="M1 SD" timeshift="4" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/M_1.jpg?7781898" group-title="MAGYARORSZÁG",M1 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/62?utc=1674149300&lutc=1674494900
+#EXTINF:-1 tvg-id="m2.hu" tvg-name="M2 HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/M_2_HD.jpg?7781901" group-title="MAGYARORSZÁG",M2 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/65?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="m2.hu" tvg-name="M2 SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/M_2.jpg?7781900" group-title="MAGYARORSZÁG",M2 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/64?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="m3.hu" tvg-name="M3 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/M_3.jpg?7781902" group-title="MAGYARORSZÁG",M3 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/86169?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="tv2.hu" tvg-name="TV2 FHD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/TV2HD.jpg?7781903" group-title="MAGYARORSZÁG",TV2 FHD
+http://royal-cdn.eu:8080/Putnoki/Tibor/114?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="tv2.hu" tvg-name="TV2 HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/TV2HD.jpg?7781903" group-title="MAGYARORSZÁG",TV2 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42996?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="tv2.hu" tvg-name="TV2 SD" timeshift="4" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Tv2.jpg?7781904" group-title="MAGYARORSZÁG",TV2 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/112?utc=1674149300&lutc=1674494900
+#EXTINF:-1 tvg-id="supertv2.hu" tvg-name="SUPER TV2 FHD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Super_Tv2_HD.jpg?7781906" group-title="MAGYARORSZÁG",SUPER TV2 FHD
+http://royal-cdn.eu:8080/Putnoki/Tibor/17448?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="supertv2.hu" tvg-name="SUPER TV2 HD" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Super_Tv2_HD.jpg?7781906" group-title="MAGYARORSZÁG",SUPER TV2 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/87073?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="supertv2.hu" tvg-name="SUPER TV2 SD" timeshift="4" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Super_Tv2.jpg?7781905" group-title="MAGYARORSZÁG",SUPER TV2 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/107?utc=1674149300&lutc=1674494900
+#EXTINF:-1 tvg-id="rtlklub.hu" tvg-name="RTL FHD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/RTL_HD.jpg?7781921" group-title="MAGYARORSZÁG",RTL FHD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42995?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="rtlklub.hu" tvg-name="RTL HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/RTL_HD.jpg?7781921" group-title="MAGYARORSZÁG",RTL HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/90?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="rtlklub.hu" tvg-name="RTL SD" timeshift="3" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/RTL.jpg?7781920" group-title="MAGYARORSZÁG",RTL SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/89?utc=1674235700&lutc=1674494900
+#EXTINF:-1 tvg-id="rtl2.hu" tvg-name="RTL KETTŐ FHD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/RTL2HD.jpg?7781932" group-title="MAGYARORSZÁG",RTL KETTŐ FHD
+http://royal-cdn.eu:8080/Putnoki/Tibor/94?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="rtl2.hu" tvg-name="RTL KETTŐ HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/RTL2HD.jpg?7781932" group-title="MAGYARORSZÁG",RTL KETTŐ HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/43002?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="rtl2.hu" tvg-name="RTL KETTŐ SD" timeshift="4" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/RTL2.jpg?7781931" group-title="MAGYARORSZÁG",RTL KETTŐ SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/93?utc=1674149300&lutc=1674494900
+#EXTINF:-1 tvg-id="rtlplus.hu" tvg-name="RTL HÁROM HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/RTL3HD.jpg?7781934" group-title="MAGYARORSZÁG",RTL HÁROM HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/44030?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="rtlplus.hu" tvg-name="RTL HÁROM SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/RTL3.jpg?7781933" group-title="MAGYARORSZÁG",RTL HÁROM SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/92?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="rtlgold.hu" tvg-name="RTL GOLD SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/RTLGOLD.jpg?7781935" group-title="MAGYARORSZÁG",RTL GOLD SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/88?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="dunatv.hu" tvg-name="DUNA TV HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/DUNAHD.jpg?7781948" group-title="MAGYARORSZÁG",DUNA TV HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/27?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="dunatv.hu" tvg-name="DUNA TV SD" timeshift="4" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/DUNA.jpg?7781947" group-title="MAGYARORSZÁG",DUNA TV SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/347?utc=1674149300&lutc=1674494900
+#EXTINF:-1 tvg-id="dunaworld.hu" tvg-name="DUNA WORLD HD - M4 SPORT+" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/DUNAWORDHD.jpg?7781950" group-title="MAGYARORSZÁG",DUNA WORLD HD - M4 SPORT+
+http://royal-cdn.eu:8080/Putnoki/Tibor/298?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="dunaworld.hu" tvg-name="DUNA WORLD SD - M4 SPORT+" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/DUNAWORLD.jpg?7781949" group-title="MAGYARORSZÁG",DUNA WORLD SD - M4 SPORT+
+http://royal-cdn.eu:8080/Putnoki/Tibor/28?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="atv.hu" tvg-name="ATV HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/ATVHD.jpg?7781962" group-title="MAGYARORSZÁG",ATV HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/29685?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="atv.hu" tvg-name="ATV SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/ATV.jpg?7781961" group-title="MAGYARORSZÁG",ATV SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/4?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="atvspirit.hu" tvg-name="ATV SPIRIT HD" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/ATVSPIRIT.jpg?7781963" group-title="MAGYARORSZÁG",ATV SPIRIT HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/29681?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="atvspirit.hu" tvg-name="ATV SPIRIT SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/ATVSPIRIT.jpg?7781963" group-title="MAGYARORSZÁG",ATV SPIRIT SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/34368?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="m5.hu" tvg-name="M5 HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/M5HD.jpg?7781965" group-title="MAGYARORSZÁG",M5 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/69?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="m5.hu" tvg-name="M5 SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/M5.jpg?7781964" group-title="MAGYARORSZÁG",M5 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/68?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="hirtv.hu" tvg-name="HIR TV HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/HIRTVHD.jpg?7781967" group-title="MAGYARORSZÁG",HIR TV HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/29674?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="hirtv.hu" tvg-name="HIR TV SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/HIRTV.jpg?7781966" group-title="MAGYARORSZÁG",HIR TV SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/53?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="erdelytv.hu" tvg-name="ERDÉLY TV SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/ErdelyTv.jpg?7781968" group-title="MAGYARORSZÁG",ERDÉLY TV SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/90108?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="*** Film Csatornak ***" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG",*** Film Csatornak ***
+http://royal-cdn.eu:8080/Putnoki/Tibor/405?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="hbo.hu" tvg-name="HBO HD" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/HBOHD.jpg?7781987" group-title="MAGYARORSZÁG",HBO HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/50?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="hbo.hu" tvg-name="HBO SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/HBO.jpg?7781986" group-title="MAGYARORSZÁG",HBO SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/48?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="hbo2.hu" tvg-name="HBO 2 HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/HBO2HD.jpg?7781989" group-title="MAGYARORSZÁG",HBO 2 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/8831?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="hbo2.hu" tvg-name="HBO 2 SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/HBO2.jpg?7781988" group-title="MAGYARORSZÁG",HBO 2 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/51?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="hbo3.hu" tvg-name="HBO 3 HD" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/HBO3HD.jpg?7781991" group-title="MAGYARORSZÁG",HBO 3 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/8832?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="hbo3.hu" tvg-name="HBO 3 SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/HBO3.jpg?7781990" group-title="MAGYARORSZÁG",HBO 3 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/49?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="cinemax.hu" tvg-name="CINEMAX HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/CinemaxHD.jpg?7781993" group-title="MAGYARORSZÁG",CINEMAX HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/29616?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="cinemax.hu" tvg-name="CINEMAX SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Cinemax.jpg?7781992" group-title="MAGYARORSZÁG",CINEMAX SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/14?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="cinemax2.hu" tvg-name="CINEMAX 2 HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Cinemax2HD.jpg?7781995" group-title="MAGYARORSZÁG",CINEMAX 2 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/29617?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="cinemax2.hu" tvg-name="CINEMAX 2 SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Cinemax2.jpg?7781994" group-title="MAGYARORSZÁG",CINEMAX 2 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/15?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="filmboxpremium.hu" tvg-name="FILMBOX PREMIUM SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/FilmBox_Premium.jpg?7781996" group-title="MAGYARORSZÁG",FILMBOX PREMIUM SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/43?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="filmboxextra.hu" tvg-name="FILMBOX EXTRA HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Filmbox_extra.jpg?7781998" group-title="MAGYARORSZÁG",FILMBOX EXTRA HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/41?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="filmbox.hu" tvg-name="FILMBOX SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Filmbox.jpg?7781999" group-title="MAGYARORSZÁG",FILMBOX SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/40?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="filmboxfamily.hu" tvg-name="FILMBOX FAMILY SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Filmboxfamily.jpg?7782000" group-title="MAGYARORSZÁG",FILMBOX FAMILY SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="filmboxstars.hu" tvg-name="FILMBOX STARS SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Filmboxstars.jpg?7782001" group-title="MAGYARORSZÁG",FILMBOX STARS SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/44?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="filmplus.hu" tvg-name="FILM+ HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/FilmPlusHd.jpg?7782003" group-title="MAGYARORSZÁG",FILM+ HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/39?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="filmplus.hu" tvg-name="FILM+ SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/FilmPlus.jpg?7782002" group-title="MAGYARORSZÁG",FILM+ SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/38?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="filmcafe.hu" tvg-name="FILM CAFE HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/FilmCafe.jpg?7782004" group-title="MAGYARORSZÁG",FILM CAFE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/31046?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="filmcafe.hu" tvg-name="FILM CAFE SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/FilmCafe.jpg?7782004" group-title="MAGYARORSZÁG",FILM CAFE SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/36?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="filmmania.hu" tvg-name="FILM MANIA HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/FilmMania.jpg?7782005" group-title="MAGYARORSZÁG",FILM MANIA HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/78352?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="filmmania.hu" tvg-name="FILM MANIA SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/FilmMania.jpg?7782005" group-title="MAGYARORSZÁG",FILM MANIA SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/37?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="film4.hu" tvg-name="FILM 4 HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Film4.jpg?7782006" group-title="MAGYARORSZÁG",FILM 4 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42584?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="film4.hu" tvg-name="FILM 4 SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Film4.jpg?7782006" group-title="MAGYARORSZÁG",FILM 4 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/9214?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="moziverzum.hu" tvg-name="MOZIVERZUM HD" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Moziverzumhd.jpg?7782012" group-title="MAGYARORSZÁG",MOZIVERZUM HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/15674?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="moziverzum.hu" tvg-name="MOZIVERZUM SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Moziverzum.jpg?7782011" group-title="MAGYARORSZÁG",MOZIVERZUM SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/74?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="moziplus.hu" tvg-name="MOZI + HD" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Mozi_hd.jpg?7782014" group-title="MAGYARORSZÁG",MOZI + HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/15673?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="moziplus.hu" tvg-name="MOZI + SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Mozi_.jpg?7782013" group-title="MAGYARORSZÁG",MOZI + SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/72?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="paramountchannel.hu" tvg-name="PARAMOUNT CHANNEL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/paramounthd.jpg?7782016" group-title="MAGYARORSZÁG",PARAMOUNT CHANNEL HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/29619?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="paramountchannel.hu" tvg-name="PARAMOUNT CHANNEL SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/paramount.jpg?7782015" group-title="MAGYARORSZÁG",PARAMOUNT CHANNEL SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/85?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="amc.hu" tvg-name="AMC HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/AMCHD.jpg?7782018" group-title="MAGYARORSZÁG",AMC HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/15671?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="amc.hu" tvg-name="AMC SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/AMC.jpg?7782017" group-title="MAGYARORSZÁG",AMC SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/1?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="axn.hu" tvg-name="AXN HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/AXNHD.jpg?7782019" group-title="MAGYARORSZÁG",AXN HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/16698?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="axn.hu" tvg-name="AXN SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/AXN.jpg?7782020" group-title="MAGYARORSZÁG",AXN SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/6?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/AXNWHITE.jpg?7782021" group-title="MAGYARORSZÁG",AXN WHITE SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/9?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="AXN BLACK SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/AXNBLACK.jpg?7782022" group-title="MAGYARORSZÁG",AXN BLACK SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/7?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="viasat2.hu" tvg-name="VIASAT 2 SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/viasat2.jpg?7782023" group-title="MAGYARORSZÁG",VIASAT 2 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/96?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="viasatfilm.hu" tvg-name="VIASAT FILM SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/FilmViasat.jpg?7782024" group-title="MAGYARORSZÁG",VIASAT FILM SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/97?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="cool.hu" tvg-name="COOL HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/coolhd.jpg?7782026" group-title="MAGYARORSZÁG",COOL HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/7961?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="cool.hu" tvg-name="COOL SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/cool.jpg?7782025" group-title="MAGYARORSZÁG",COOL SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/18?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Max4.jpg?7782030" group-title="MAGYARORSZÁG",MAX 4 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/103129?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="tv4.hu" tvg-name="TV4 HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/TV4.jpg?7782031" group-title="MAGYARORSZÁG",TV4 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42587?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="tv4.hu" tvg-name="TV4 SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/TV4.jpg?7782031" group-title="MAGYARORSZÁG",TV4 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/117?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="story4.hu" tvg-name="STORY 4 HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Story4.jpg?7782032" group-title="MAGYARORSZÁG",STORY 4 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42585?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="story4.hu" tvg-name="STORY 4 SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Story4.jpg?7782032" group-title="MAGYARORSZÁG",STORY 4 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/105?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="galaxy4.hu" tvg-name="GALAXY 4 HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Galaxy4.jpg?7782033" group-title="MAGYARORSZÁG",GALAXY 4 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42583?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="galaxy4.hu" tvg-name="GALAXY 4 SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Galaxy4.jpg?7782033" group-title="MAGYARORSZÁG",GALAXY 4 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/7964?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="viasat3.hu" tvg-name="VIASAT 3 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/viasat3.jpg?7782034" group-title="MAGYARORSZÁG",VIASAT 3 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/29618?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="viasat3.hu" tvg-name="VIASAT 3 SD" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/viasat3.jpg?7782034" group-title="MAGYARORSZÁG",VIASAT 3 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/118?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="viasat6.hu" tvg-name="VIASAT 6 SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Viasat6.jpg?7782035" group-title="MAGYARORSZÁG",VIASAT 6 SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/119?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="comedycentralfamily.hu" tvg-name="COMEDY CENTRAL FAMILY SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Centralfamily.jpg?7782036" group-title="MAGYARORSZÁG",COMEDY CENTRAL FAMILY SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/16?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="comedycentral.hu" tvg-name="COMEDY CENTRAL SD" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Comedy_Central.jpg?7782037" group-title="MAGYARORSZÁG",COMEDY CENTRAL SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/17?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="*** Sorozat Csatornak ***" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG",*** Sorozat Csatornak ***
+http://royal-cdn.eu:8080/Putnoki/Tibor/403?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="sorozatplus.hu" tvg-name="SOROZAT+ SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Sorozat_.jpg?7784434" group-title="MAGYARORSZÁG",SOROZAT+ SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="jockytv.hu" tvg-name="JOCKY TV SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/JOCKYTV.jpg?7784435" group-title="MAGYARORSZÁG",JOCKY TV SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/60?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="izauratv.hu" tvg-name="IZAURA TV HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/IzauraTV.jpg?7784436" group-title="MAGYARORSZÁG",IZAURA TV HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98181?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="izauratv.hu" tvg-name="IZAURA TV SD" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/IzauraTV.jpg?7784436" group-title="MAGYARORSZÁG",IZAURA TV SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/58?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="tv2comedy.hu" tvg-name="TV2 COMEDY SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/TV2CAMEDY.jpg?7784437" group-title="MAGYARORSZÁG",TV2 COMEDY SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/113?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="epicdrama.hu" tvg-name="EPIC DRAMA HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/EPICDRAMA.jpg?7784438" group-title="MAGYARORSZÁG",EPIC DRAMA HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/7963?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="epicdrama.hu" tvg-name="EPIC DRAMA SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/EPICDRAMA.jpg?7784438" group-title="MAGYARORSZÁG",EPIC DRAMA SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/44063?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="prime.hu" tvg-name="PRIME HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/PRIME.jpg?7784439" group-title="MAGYARORSZÁG",PRIME HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42586?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="prime.hu" tvg-name="PRIME SD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/PRIME.jpg?7784439" group-title="MAGYARORSZÁG",PRIME SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/86?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="*** Gyerek Csatornak ***" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG",*** Gyerek Csatornak ***
+http://royal-cdn.eu:8080/Putnoki/Tibor/348?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="46" tvg-name="HEY KIDS HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/HEYKIDS.jpg?7784456" group-title="MAGYARORSZÁG",HEY KIDS HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/73517?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/BabyTV.jpg?7784497" group-title="MAGYARORSZÁG",BABY TV HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98245?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY EGÉR JÁTSZÓTERE HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/MICKEYEGERJATSZOTERE.jpg?7784498" group-title="MAGYARORSZÁG",MICKEY EGÉR JÁTSZÓTERE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98227?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="BABY BOLONDOS DALLAMOK HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/BabyLooney.jpg?7784499" group-title="MAGYARORSZÁG",BABY BOLONDOS DALLAMOK HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98233?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="TOM ÉS JERRY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/TOMESJERRY.jpg?7784500" group-title="MAGYARORSZÁG",TOM ÉS JERRY HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98235?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="PIZSIHŐSÖK HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/PIZSIHOSOK.jpg?7784503" group-title="MAGYARORSZÁG",PIZSIHŐSÖK HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98241?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="NINJAGO HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/NinjaGo.jpg?7784508" group-title="MAGYARORSZÁG",NINJAGO HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98242?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="CSAK LAZÁN SCOOBY DOO HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/SCOOBY.jpg?7784509" group-title="MAGYARORSZÁG",CSAK LAZÁN SCOOBY DOO HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98228?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="SPONGYABOB KOCKANADRÁG HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/SOPNGYABOB.jpg?7784514" group-title="MAGYARORSZÁG",SPONGYABOB KOCKANADRÁG HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98239?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="GRIZZY ÉS A LEMINGENEK HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/GRIZZY.jpg?7784515" group-title="MAGYARORSZÁG",GRIZZY ÉS A LEMINGENEK HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98243?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="A MANCS ŐRJÁRAT HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/MANCS.jpg?7784520" group-title="MAGYARORSZÁG",A MANCS ŐRJÁRAT HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98244?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="BÉBI ÚR HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/BabyUr.jpg?7784525" group-title="MAGYARORSZÁG",BÉBI ÚR HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98238?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="LAZY TOWN HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Lazy.jpg?7784526" group-title="MAGYARORSZÁG",LAZY TOWN HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98232?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="ÚJ BOLONDOS DALLAMOK HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/UJBOLONDOS.jpg?7784527" group-title="MAGYARORSZÁG",ÚJ BOLONDOS DALLAMOK HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98231?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MÁSA ÉS A MEDVE HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/MASA.jpg?7784529" group-title="MAGYARORSZÁG",MÁSA ÉS A MEDVE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98230?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MR.BEAN A RAJZFILMSOROZAT HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/MRBEAN.jpg?7784551" group-title="MAGYARORSZÁG",MR.BEAN A RAJZFILMSOROZAT HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98229?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="boomerang.hu" tvg-name="BOOMERANG" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/BUMERANG.jpg?7784560" group-title="MAGYARORSZÁG",BOOMERANG
+http://royal-cdn.eu:8080/Putnoki/Tibor/11?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/CN.jpg?7784561" group-title="MAGYARORSZÁG",CARTOON NETWORK
+http://royal-cdn.eu:8080/Putnoki/Tibor/12?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/DJUNIOR.jpg?7784562" group-title="MAGYARORSZÁG",DISNEY JUNIOR HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/28314?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="disneychannel.hu" tvg-name="DISNEY CHANNEL" timeshift="1" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/DISNEYCHANNEL.jpg?7784569" group-title="MAGYARORSZÁG",DISNEY CHANNEL
+http://royal-cdn.eu:8080/Putnoki/Tibor/382?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="nickelodeon.hu" tvg-name="NICKELODEON SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/NICKELODEON.jpg?7784574" group-title="MAGYARORSZÁG",NICKELODEON SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/83?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="nickjr.hu" tvg-name="NICK JUNIOR SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/NICKJR.jpg?7784575" group-title="MAGYARORSZÁG",NICK JUNIOR SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/82?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="nicktoons.hu" tvg-name="NICKTOONS SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/NICKTOONS.jpg?7784577" group-title="MAGYARORSZÁG",NICKTOONS SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/84?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="minimax.hu" tvg-name="MINIMAX SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/MINIMAX.jpg?7784578" group-title="MAGYARORSZÁG",MINIMAX SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/70?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="teennick.hu" tvg-name="TEEN NICK SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/TEENNICK.jpg?7784579" group-title="MAGYARORSZÁG",TEEN NICK SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/91?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="davincilearning.hu" tvg-name="DA VINCI SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/DAVINCI.jpg?7784583" group-title="MAGYARORSZÁG",DA VINCI SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/372?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="ducktv.hu" tvg-name="DUCK TV SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/DUCITV.jpg?7784584" group-title="MAGYARORSZÁG",DUCK TV SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/383?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="jimjam.hu" tvg-name="JIM JAM SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/JimJam.jpg?7784637" group-title="MAGYARORSZÁG",JIM JAM SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/59?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="tv2kids.hu" tvg-name="TV2 KIDS SD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/TV2Kids.jpg?7784656" group-title="MAGYARORSZÁG",TV2 KIDS SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/115?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="*** Sport Csatornak ***" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG",*** Sport Csatornak ***
+http://royal-cdn.eu:8080/Putnoki/Tibor/363?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="AUTO MOTOR SPORT HD" timeshift="0" tvg-logo="http://remek.link/images/auto_motor_sport.png" group-title="MAGYARORSZÁG",AUTO MOTOR SPORT HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/5?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="match4.hu" tvg-name="MATCH 4HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Match4.png?7778608" group-title="MAGYARORSZÁG",MATCH 4HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/20?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="match4.hu" tvg-name="MATCH 4" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Match4.png?7778608" group-title="MAGYARORSZÁG",MATCH 4
+http://royal-cdn.eu:8080/Putnoki/Tibor/378?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="eurosport1.hu" tvg-name="EUROSPORT 1HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eurosport_1_HD.svg/revision/latest?cb=20171123115635" group-title="MAGYARORSZÁG",EUROSPORT 1HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/31?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="eurosport1.hu" tvg-name="EUROSPORT 1" timeshift="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2880px-Eurosport_Logo_2015.svg.png" group-title="MAGYARORSZÁG",EUROSPORT 1
+http://royal-cdn.eu:8080/Putnoki/Tibor/30?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="eurosport2.hu" tvg-name="EUROSPORT 2HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Eurosport_2_HD_2015.png/revision/latest?cb=20151116103945" group-title="MAGYARORSZÁG",EUROSPORT 2HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/33?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="eurosport2.hu" tvg-name="EUROSPORT 2" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest?cb=20171209134527" group-title="MAGYARORSZÁG",EUROSPORT 2
+http://royal-cdn.eu:8080/Putnoki/Tibor/32?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="sport1.hu" tvg-name="SPORT 1 HD" timeshift="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Sport1_logo.svg/revision/latest?cb=20100526165030" group-title="MAGYARORSZÁG",SPORT 1 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/102?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="sport1.hu" tvg-name="SPORT 1" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Sport1_logo.svg/revision/latest?cb=20100526165030" group-title="MAGYARORSZÁG",SPORT 1
+http://royal-cdn.eu:8080/Putnoki/Tibor/103?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="sport2.hu" tvg-name="SPORT 2 HD" timeshift="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Sport2_2008.svg/revision/latest/scale-to-width-down/300?cb=20210628122117" group-title="MAGYARORSZÁG",SPORT 2 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/308?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="sport2.hu" tvg-name="SPORT 2" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Sport2_2008.svg/revision/latest/scale-to-width-down/300?cb=20210628122117" group-title="MAGYARORSZÁG",SPORT 2
+http://royal-cdn.eu:8080/Putnoki/Tibor/104?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="spilertv.hu" tvg-name="SPILER 1 HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Spiler1hd.svg/revision/latest?cb=20211226132846" group-title="MAGYARORSZÁG",SPILER 1 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/306?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="spilertv.hu" tvg-name="SPILER 1" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Spilertv.svg/revision/latest?cb=20210504112603" group-title="MAGYARORSZÁG",SPILER 1
+http://royal-cdn.eu:8080/Putnoki/Tibor/100?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="spiler2.hu" tvg-name="SPILER 2 HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Spiler2hd.svg/revision/latest?cb=20211226133044" group-title="MAGYARORSZÁG",SPILER 2 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/307?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="spiler2.hu" tvg-name="SPILER 2" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Sp%C3%ADler_2_TV.svg/revision/latest?cb=20210504112931" group-title="MAGYARORSZÁG",SPILER 2
+http://royal-cdn.eu:8080/Putnoki/Tibor/101?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="arena4.hu" tvg-name="ARENA 4 HD" timeshift="2" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/arena4.png?7778642" group-title="MAGYARORSZÁG",ARENA 4 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/15725?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="arena4.hu" tvg-name="ARENA 4" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/arena4.png?7778642" group-title="MAGYARORSZÁG",ARENA 4
+http://royal-cdn.eu:8080/Putnoki/Tibor/304?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="fithd.hu" tvg-name="FIT HD" timeshift="2" tvg-logo="https://w7.pngwing.com/pngs/1020/552/png-transparent-fitness-centre-silhouette-physical-fitness-fitness-pattern-fitness-fitness-photography-sport-thumbnail.png" group-title="MAGYARORSZÁG",FIT HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/15726?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="m4sport.hu" tvg-name="M4 SPORT FHD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/M4_Sport_HD.svg/revision/latest/scale-to-width-down/1000?cb=20200330144713" group-title="MAGYARORSZÁG",M4 SPORT FHD
+http://royal-cdn.eu:8080/Putnoki/Tibor/66?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="m4sport.hu" tvg-name="M4 SPORT HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/M4_Sport_HD.svg/revision/latest/scale-to-width-down/1000?cb=20200330144713" group-title="MAGYARORSZÁG",M4 SPORT HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42997?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="m4sport.hu" tvg-name="M4 SPORT SD" timeshift="4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/M4_Sport.svg/revision/latest/scale-to-width-down/1000?cb=20181025062249" group-title="MAGYARORSZÁG",M4 SPORT SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/366?utc=1674149300&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL FHD" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="MAGYARORSZÁG",SKY SPORTS FOOTBALL FHD
+http://royal-cdn.eu:8080/Putnoki/Tibor/65205?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE FHD" timeshift="0" tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-premier-league.png" group-title="MAGYARORSZÁG",SKY SPORTS PREMIER LEAGUE FHD
+http://royal-cdn.eu:8080/Putnoki/Tibor/65204?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 FHD" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="MAGYARORSZÁG",SKY SPORTS F1 FHD
+http://royal-cdn.eu:8080/Putnoki/Tibor/65203?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="*** Zene Csatornak ***" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG",*** Zene Csatornak ***
+http://royal-cdn.eu:8080/Putnoki/Tibor/408?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MOOZ DANCE HD" timeshift="0" tvg-logo="http://remek.link/images/mooz_dance.png" group-title="MAGYARORSZÁG",MOOZ DANCE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/71?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="mtv.hu" tvg-name="MTV HUNGARY" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/2560px-MTV-2021.svg.png" group-title="MAGYARORSZÁG",MTV HUNGARY
+http://royal-cdn.eu:8080/Putnoki/Tibor/76?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="mtv00s.hu" tvg-name="MTV 00S" timeshift="0" tvg-logo="https://cdn.shopify.com/s/files/1/0088/6675/8707/products/Viacom_MTV_Pillow16inX16inPRTGENSLG16B_MTV-MA80-PL_Image01_4b293cd9-de83-4771-a42a-247ef7591989_600x.jpg?v=1582734478" group-title="MAGYARORSZÁG",MTV 00S
+http://royal-cdn.eu:8080/Putnoki/Tibor/16474?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="mtvclub.hu" tvg-name="MTV CLUB" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Club_MTV_osb.svg/revision/latest/scale-to-width-down/250?cb=20210725140416" group-title="MAGYARORSZÁG",MTV CLUB
+http://royal-cdn.eu:8080/Putnoki/Tibor/75?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MTV MUSIC" timeshift="0" tvg-logo="http://remek.link/images/mtv_music.jpg" group-title="MAGYARORSZÁG",MTV MUSIC
+http://royal-cdn.eu:8080/Putnoki/Tibor/397?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="mtvhits.hu" tvg-name="MTV HITS" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MAGYARORSZÁG",MTV HITS
+http://royal-cdn.eu:8080/Putnoki/Tibor/16476?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="mtv90s.hu" tvg-name="MTV 90S" timeshift="0" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/mtv_90s_wide.png?itok=kbOpLuan" group-title="MAGYARORSZÁG",MTV 90S
+http://royal-cdn.eu:8080/Putnoki/Tibor/16475?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MAGIC TV HD" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Magic_TV.png" group-title="MAGYARORSZÁG",MAGIC TV HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42579?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="NICK MUSIC HD" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1200px-NickMusic.svg.png?20200911012108" group-title="MAGYARORSZÁG",NICK MUSIC HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42581?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="KRONEHIT TV HD" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kronehit_Logo2018_Nachtblau_rgb.svg/1200px-Kronehit_Logo2018_Nachtblau_rgb.svg.png" group-title="MAGYARORSZÁG",KRONEHIT TV HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/42578?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="JOY HITS HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/78343912/large/joy_hits.png?7661006" group-title="MAGYARORSZÁG",JOY HITS HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/95870?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="FIRST MUSIK 4K" timeshift="0" tvg-logo="https://i.ibb.co/pWVDK8r/First-Music.png" group-title="MAGYARORSZÁG",FIRST MUSIK 4K
+http://royal-cdn.eu:8080/Putnoki/Tibor/42580?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="zenebutik.hu" tvg-name="ZENEBUTIK" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Zenebutik_%28Hungary%29_%282016%29.svg/revision/latest?cb=20200618204643" group-title="MAGYARORSZÁG",ZENEBUTIK
+http://royal-cdn.eu:8080/Putnoki/Tibor/123?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="muzsikatv.hu" tvg-name="MUZSIKA TV" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Muzsika_tv_hu.png" group-title="MAGYARORSZÁG",MUZSIKA TV
+http://royal-cdn.eu:8080/Putnoki/Tibor/77?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="slagertv.hu" tvg-name="SLAGER TV HD" timeshift="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Sl%C3%A1ger_TV_%282017%29.svg/revision/latest?cb=20210206142516" group-title="MAGYARORSZÁG",SLAGER TV HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/31048?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="slagertv.hu" tvg-name="SLAGER TV" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Sl%C3%A1ger_TV_%282017%29.svg/revision/latest?cb=20210206142516" group-title="MAGYARORSZÁG",SLAGER TV
+http://royal-cdn.eu:8080/Putnoki/Tibor/95?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="stingrayiconcerts.hu" tvg-name="STINGRAY ICONCERTS" timeshift="0" tvg-logo="https://ewsat.com/img/STINGRAY_ICONCERTS.png" group-title="MAGYARORSZÁG",STINGRAY ICONCERTS
+http://royal-cdn.eu:8080/Putnoki/Tibor/42582?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="57" tvg-name="DICSERETEK" timeshift="0" tvg-logo="https://images.rawpixel.com/image_png_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjIyNi1uaW5nLTI1LXJlbGlnaW9uLWpvYjEwMV8xLnBuZw.png" group-title="MAGYARORSZÁG",DICSERETEK
+http://royal-cdn.eu:8080/Putnoki/Tibor/76588?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="TOTAL DANCE TV" timeshift="0" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/totaldancenew.png" group-title="MAGYARORSZÁG",TOTAL DANCE TV
+http://royal-cdn.eu:8080/Putnoki/Tibor/34768?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="dikh.tv" tvg-name="DIKH TV HD" timeshift="1" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/dikhtv_wide.png" group-title="MAGYARORSZÁG",DIKH TV HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/31045?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="dikh.tv" tvg-name="DIKH TV" timeshift="0" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/dikhtv_wide.png?itok=NU43c6Y9" group-title="MAGYARORSZÁG",DIKH TV
+http://royal-cdn.eu:8080/Putnoki/Tibor/11590?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="vh1.hu" tvg-name="VH1" timeshift="0" tvg-logo="https://www.pngkit.com/png/full/272-2722065_vh1-logo-logo.png" group-title="MAGYARORSZÁG",VH1
+http://royal-cdn.eu:8080/Putnoki/Tibor/43235?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="*** Termeszet es Tudomany Csatornak ***" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG",*** Termeszet es Tudomany Csatornak ***
+http://royal-cdn.eu:8080/Putnoki/Tibor/409?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="animalplanet.hu" tvg-name="ANIMAL PLANET HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Animal_Planet_HD_2019.svg/revision/latest/scale-to-width-down/1000?cb=20220725153041" group-title="MAGYARORSZÁG",ANIMAL PLANET HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/31044?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="animalplanet.hu" tvg-name="ANIMAL PLANET" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest?cb=20210825085349" group-title="MAGYARORSZÁG",ANIMAL PLANET
+http://royal-cdn.eu:8080/Putnoki/Tibor/2?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="lovenature.hu" tvg-name="LOVE NATURE HD" timeshift="0" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="MAGYARORSZÁG",LOVE NATURE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/91426?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="bbcearth.hu" tvg-name="BBC EARTH HD" timeshift="2" tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/7/7c/Bbc_earth_logo.png" group-title="MAGYARORSZÁG",BBC EARTH HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/29651?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="bbcearth.hu" tvg-name="BBC EARTH" timeshift="0" tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/7/7c/Bbc_earth_logo.png" group-title="MAGYARORSZÁG",BBC EARTH
+http://royal-cdn.eu:8080/Putnoki/Tibor/45795?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="spektrum.hu" tvg-name="SPEKTRUM HD" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Spekrtum_%282010%29_%28Horizontal%29.svg/revision/latest?cb=20180114215437" group-title="MAGYARORSZÁG",SPEKTRUM HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/297?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="spektrum.hu" tvg-name="SPEKTRUM" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Spektrum_%282020%29.svg/revision/latest?cb=20200804145203" group-title="MAGYARORSZÁG",SPEKTRUM
+http://royal-cdn.eu:8080/Putnoki/Tibor/99?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="cbsreality.hu" tvg-name="CBS REALITY HD" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/CBS_Reality_%282017%29.svg/revision/latest?cb=20191219152443" group-title="MAGYARORSZÁG",CBS REALITY HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/13?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="natgeo.hu" tvg-name="NAT GEO HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest?cb=20171113181251" group-title="MAGYARORSZÁG",NAT GEO HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/79?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="natgeo.hu" tvg-name="NAT GEO" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034" group-title="MAGYARORSZÁG",NAT GEO
+http://royal-cdn.eu:8080/Putnoki/Tibor/78?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="natgeowild.hu" tvg-name="NAT GEO WILD HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest?cb=20180903172554" group-title="MAGYARORSZÁG",NAT GEO WILD HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/81?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="natgeowild.hu" tvg-name="NAT GEO WILD" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest?cb=20180903172554" group-title="MAGYARORSZÁG",NAT GEO WILD
+http://royal-cdn.eu:8080/Putnoki/Tibor/80?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="digianimalworld.hu" tvg-name="DIGI ANIMAL WORLD HD" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Digi_Animal_World.png/revision/latest/scale-to-width-down/1000?cb=20210604023312" group-title="MAGYARORSZÁG",DIGI ANIMAL WORLD HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/89927?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="digianimalworld.hu" tvg-name="DIGI ANIMAL WORLD" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Digi_Animal_World.png/revision/latest/scale-to-width-down/1000?cb=20210604023312" group-title="MAGYARORSZÁG",DIGI ANIMAL WORLD
+http://royal-cdn.eu:8080/Putnoki/Tibor/373?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="viasatnature.hu" tvg-name="VIASAT NATURE HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Viasat_Nature_2022.svg/revision/latest?cb=20220119211909" group-title="MAGYARORSZÁG",VIASAT NATURE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/300?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="viasatnature.hu" tvg-name="VIASAT NATURE" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Viasat_Nature_2022.svg/revision/latest?cb=20220119211909" group-title="MAGYARORSZÁG",VIASAT NATURE
+http://royal-cdn.eu:8080/Putnoki/Tibor/122?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="viasathistory.hu" tvg-name="VIASAT HISTORY HD" timeshift="2" tvg-logo="https://i.ibb.co/TRV2FSf/viasat-history-1.png" group-title="MAGYARORSZÁG",VIASAT HISTORY HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/301?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="viasathistory.hu" tvg-name="VIASAT HISTORY SD" timeshift="0" tvg-logo="https://i.ibb.co/TRV2FSf/viasat-history-1.png" group-title="MAGYARORSZÁG",VIASAT HISTORY SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/121?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="viasatexplore.hu" tvg-name="VIASAT EXPLORE HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Viasat_Explore_HD.svg/revision/latest?cb=20140718113334" group-title="MAGYARORSZÁG",VIASAT EXPLORE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/9213?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="viasatexplore.hu" tvg-name="VIASAT EXPLORE" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Viasat_Explore_2022.svg/revision/latest?cb=20220119212514" group-title="MAGYARORSZÁG",VIASAT EXPLORE
+http://royal-cdn.eu:8080/Putnoki/Tibor/120?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="travelchannel.hu" tvg-name="TRAVEL CHANNEL HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Travel_Channel_HD_2017.svg/revision/latest?cb=20191226223454" group-title="MAGYARORSZÁG",TRAVEL CHANNEL HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/110?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="travelchannel.hu" tvg-name="TRAVEL CHANNEL" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Travel_Channel_International_%282017%29.svg/revision/latest?cb=20191226223505" group-title="MAGYARORSZÁG",TRAVEL CHANNEL
+http://royal-cdn.eu:8080/Putnoki/Tibor/109?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="hgtv.hu" tvg-name="HGTV HD" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest?cb=20170704124128" group-title="MAGYARORSZÁG",HGTV HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/62994?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="hgtv.hu" tvg-name="HGTV" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest?cb=20170704124128" group-title="MAGYARORSZÁG",HGTV
+http://royal-cdn.eu:8080/Putnoki/Tibor/52?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="discoverychannel.hu" tvg-name="DISCOVERY CHANNEL HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Discovery_Channel_2009.svg/revision/latest?cb=20200816062129" group-title="MAGYARORSZÁG",DISCOVERY CHANNEL HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/24?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="discoverychannel.hu" tvg-name="DISCOVERY CHANNEL" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" group-title="MAGYARORSZÁG",DISCOVERY CHANNEL
+http://royal-cdn.eu:8080/Putnoki/Tibor/23?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="ozonetv.hu" tvg-name="OZONE HD" timeshift="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/OzoneTV.png" group-title="MAGYARORSZÁG",OZONE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/16236?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="ozonetv.hu" tvg-name="OZONE TV" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/OzoneTV.png" group-title="MAGYARORSZÁG",OZONE TV
+http://royal-cdn.eu:8080/Putnoki/Tibor/45797?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="fem3.hu" tvg-name="FEM 3" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/FEM_2016.svg/revision/latest?cb=20210504114636" group-title="MAGYARORSZÁG",FEM 3
+http://royal-cdn.eu:8080/Putnoki/Tibor/35?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="fix.hu" tvg-name="FIX TV HD" timeshift="1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c46d61db48f589d7c5d9654d0e395092.webp" group-title="MAGYARORSZÁG",FIX TV HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/27981?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="fix.hu" tvg-name="FIX TV" timeshift="0" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c46d61db48f589d7c5d9654d0e395092.webp" group-title="MAGYARORSZÁG",FIX TV
+http://royal-cdn.eu:8080/Putnoki/Tibor/45796?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="fishinghunting.hu" tvg-name="FISHING AND HUNTING HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/The_Fishing_%26_Hunting_Channel_2014.svg/revision/latest?cb=20171201190323" group-title="MAGYARORSZÁG",FISHING AND HUNTING HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/303?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="fishinghunting.hu" tvg-name="FISHING AND HUNTING" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/The_Fishing_%26_Hunting_Channel_%28horizontal%29.svg/revision/latest?cb=20210627163130" group-title="MAGYARORSZÁG",FISHING AND HUNTING
+http://royal-cdn.eu:8080/Putnoki/Tibor/46?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="historychannel.hu" tvg-name="HISTORY HD" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/History_HD_Logo.svg/revision/latest/scale-to-width-down/1000?cb=20130329052517" group-title="MAGYARORSZÁG",HISTORY HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/55?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="historychannel.hu" tvg-name="HISTORY SD" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest?cb=20180119222457" group-title="MAGYARORSZÁG",HISTORY SD
+http://royal-cdn.eu:8080/Putnoki/Tibor/54?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="id.hu" tvg-name="INVESTIGATION DISCOVERY" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Investigation_Discovery.png/revision/latest?cb=20171215183552" group-title="MAGYARORSZÁG",INVESTIGATION DISCOVERY
+http://royal-cdn.eu:8080/Putnoki/Tibor/57?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="discoveryturboxtra.hu" tvg-name="DTX HD" timeshift="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Discovery_Turbo_Xtra.png" group-title="MAGYARORSZÁG",DTX HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/31041?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="discoveryturboxtra.hu" tvg-name="DTX" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/DTX_Discovery_logo.png/revision/latest?cb=20180717054533" group-title="MAGYARORSZÁG",DTX
+http://royal-cdn.eu:8080/Putnoki/Tibor/26?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="spektrumhome.hu" tvg-name="SPEKTRUM HOME" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Spektrum_Home_%282020%29.svg/revision/latest?cb=20200804145616" group-title="MAGYARORSZÁG",SPEKTRUM HOME
+http://royal-cdn.eu:8080/Putnoki/Tibor/368?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="id.hu" tvg-name="ID XTRA HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Investigation_Discovery_HD.svg/revision/latest?cb=20171114040224" group-title="MAGYARORSZÁG",ID XTRA HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/28308?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="id.hu" tvg-name="ID XTRA" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Investigation_Discovery_%28Print%29.svg/revision/latest?cb=20171114040200" group-title="MAGYARORSZÁG",ID XTRA
+http://royal-cdn.eu:8080/Putnoki/Tibor/7962?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="discoveryscience.hu" tvg-name="DISCOVERY SCIENCE HD" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Discovery_Science_2017.svg/revision/latest?cb=20191226125532" group-title="MAGYARORSZÁG",DISCOVERY SCIENCE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/31042?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="discoveryscience.hu" tvg-name="DISCOVERY SCIENCE" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Discovery_Science_2017.svg/revision/latest?cb=20191226125532" group-title="MAGYARORSZÁG",DISCOVERY SCIENCE
+http://royal-cdn.eu:8080/Putnoki/Tibor/375?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="lifetv.hu" tvg-name="LIFE HD" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Life_TV_%28Hungary%29.svg/revision/latest?cb=20210206141736" group-title="MAGYARORSZÁG",LIFE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/15676?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="lifetv.hu" tvg-name="LIFE TV" timeshift="2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Life_TV_%28Hungary%29.svg/revision/latest?cb=20210206141736" group-title="MAGYARORSZÁG",LIFE TV
+http://royal-cdn.eu:8080/Putnoki/Tibor/61?utc=1674322100&lutc=1674494900
+#EXTINF:-1 tvg-id="tlc.hu" tvg-name="TLC" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/TLC_%282021%29.svg/revision/latest?cb=20220703193228" group-title="MAGYARORSZÁG",TLC
+http://royal-cdn.eu:8080/Putnoki/Tibor/108?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="*** Gastronomia Csatornak ***" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG",*** Gastronomia Csatornak ***
+http://royal-cdn.eu:8080/Putnoki/Tibor/369?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="foodnetwork.hu" tvg-name="FOOD NETWORK" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FN-Logo.svg/revision/latest?cb=20171221110545" group-title="MAGYARORSZÁG",FOOD NETWORK
+http://royal-cdn.eu:8080/Putnoki/Tibor/43236?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="tvpaprika.hu" tvg-name="TV PAPRIKA HD" timeshift="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/TV_Paprika.svg/revision/latest?cb=20171222085716" group-title="MAGYARORSZÁG",TV PAPRIKA HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/27983?utc=1674408500&lutc=1674494900
+#EXTINF:-1 tvg-id="tvpaprika.hu" tvg-name="TV PAPRIKA" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Tv-paprika-logo-2021.svg/revision/latest/scale-to-width-down/1000?cb=20210901154706" group-title="MAGYARORSZÁG",TV PAPRIKA
+http://royal-cdn.eu:8080/Putnoki/Tibor/111?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="tv2sef.hu" tvg-name="TV2 SEF" timeshift="0" tvg-logo="https://www.media-max.ro/wp-content/uploads/2020/09/LiChi-TV-devine-TV2-Sef.png" group-title="MAGYARORSZÁG",TV2 SEF
+http://royal-cdn.eu:8080/Putnoki/Tibor/116?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="*** Hir Csatornak ***" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG",*** Hir Csatornak ***
+http://royal-cdn.eu:8080/Putnoki/Tibor/406?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="hatoscsatorna.hu" tvg-name="HATOSCSATORNA" timeshift="0" tvg-logo="https://tvnezesonline.com/images/hatoscsatorna-logo-nagy.png" group-title="MAGYARORSZÁG",HATOSCSATORNA
+http://royal-cdn.eu:8080/Putnoki/Tibor/386?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="euronews.hu" tvg-name="EURONEWS" timeshift="0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Euronews_2016.svg/revision/latest?cb=20170218115717" group-title="MAGYARORSZÁG",EURONEWS
+http://royal-cdn.eu:8080/Putnoki/Tibor/28305?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="paxtv.hu" tvg-name="PAX TV" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/PAX_logo.svg/1200px-PAX_logo.svg.png" group-title="MAGYARORSZÁG",PAX TV
+http://royal-cdn.eu:8080/Putnoki/Tibor/27980?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="*** Magyar Radio ***" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG",*** Magyar Radio ***
+http://royal-cdn.eu:8080/Putnoki/Tibor/35131?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="PETŐFI RÁDIÓ" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/0/0c/MR2-Pet%C5%91fi.png/1200px-MR2-Pet%C5%91fi.png" group-title="MAGYARORSZÁG",PETŐFI RÁDIÓ
+http://royal-cdn.eu:8080/Putnoki/Tibor/35133?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="SLÁGER FM" timeshift="0" tvg-logo="https://www.slagerfm.hu/assets/images/sfm_web_20190201x.png" group-title="MAGYARORSZÁG",SLÁGER FM
+http://royal-cdn.eu:8080/Putnoki/Tibor/35132?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="RÁDIÓ 1" timeshift="0" tvg-logo="https://i.ytimg.com/vi/-ZmnyJ2k6VQ/hqdefault.jpg" group-title="MAGYARORSZÁG",RÁDIÓ 1
+http://royal-cdn.eu:8080/Putnoki/Tibor/35146?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="KOSSUTH RÁDIÓ" timeshift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/6/69/Mr1.png" group-title="MAGYARORSZÁG",KOSSUTH RÁDIÓ
+http://royal-cdn.eu:8080/Putnoki/Tibor/35149?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="RETRO RÁDIÓ" timeshift="0" tvg-logo="https://lh3.googleusercontent.com/6E9h0uZ1tyi6wpf1ne9RwB4eU1h4FJQIt-TcC2CdoXilwGF3sDeSouhEhq347xkYFTg" group-title="MAGYARORSZÁG",RETRO RÁDIÓ
+http://royal-cdn.eu:8080/Putnoki/Tibor/35145?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="DANUBIUS RÁDIÓ" timeshift="0" tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/danubius-radio/fb_cover.png" group-title="MAGYARORSZÁG",DANUBIUS RÁDIÓ
+http://royal-cdn.eu:8080/Putnoki/Tibor/35151?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="KLUBRÁDIO" timeshift="0" tvg-logo="https://i.pinimg.com/originals/bd/90/cd/bd90cd745701282c607e72b89c78e950.png" group-title="MAGYARORSZÁG",KLUBRÁDIO
+http://royal-cdn.eu:8080/Putnoki/Tibor/35148?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MULATOS RÁDIÓ" timeshift="0" tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/mulatos-radio/list_45.jpg" group-title="MAGYARORSZÁG",MULATOS RÁDIÓ
+http://royal-cdn.eu:8080/Putnoki/Tibor/70663?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="HIT RÁDIÓ" timeshift="0" tvg-logo="http://onlinestream.live/logos/5398.png" group-title="MAGYARORSZÁG",HIT RÁDIÓ
+http://royal-cdn.eu:8080/Putnoki/Tibor/35150?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="BEAT RÁDIÓ" timeshift="0" tvg-logo="http://www.beatradiohungary.hu/assets/logo/fb-share.png" group-title="MAGYARORSZÁG",BEAT RÁDIÓ
+http://royal-cdn.eu:8080/Putnoki/Tibor/35147?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="52" tvg-name="MARVEL & DC HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MARVELDC.jpg?7784403" group-title="MAGYARORSZÁG PREMIUM",MARVEL & DC HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/76844?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MARVELSTUDIO.jpg?7784214" group-title="MAGYARORSZÁG PREMIUM",MARVEL HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/104007?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="DC UNIVERSE HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DC.jpg?7784215" group-title="MAGYARORSZÁG PREMIUM",DC UNIVERSE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/104008?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="37" tvg-name="HBO GO HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOGO.jpg?7784181" group-title="MAGYARORSZÁG PREMIUM",HBO GO HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/70933?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="38" tvg-name="HBO MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOMAX.jpg?7784182" group-title="MAGYARORSZÁG PREMIUM",HBO MAX HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/70964?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="51" tvg-name="HBO ZONE HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOZONE.jpg?7784183" group-title="MAGYARORSZÁG PREMIUM",HBO ZONE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/74669?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="62" tvg-name="HBO FAMILY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOFAMILY.jpg?7784184" group-title="MAGYARORSZÁG PREMIUM",HBO FAMILY HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/76857?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="64" tvg-name="HBO PLUS HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOPLUS.jpg?7784185" group-title="MAGYARORSZÁG PREMIUM",HBO PLUS HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/76871?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="70" tvg-name="HBO COMEDY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOCOMEDY.jpg?7784186" group-title="MAGYARORSZÁG PREMIUM",HBO COMEDY HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/85419?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="77" tvg-name="HBO SIGNATURE HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOSIGNATURE.jpg?7784187" group-title="MAGYARORSZÁG PREMIUM",HBO SIGNATURE HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/96835?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="82" tvg-name="HBO KIDS HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/HBOKIDS.jpg?7784188" group-title="MAGYARORSZÁG PREMIUM",HBO KIDS HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/100362?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="5 STAR MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/5Star_Max.jpg?7789905" group-title="MAGYARORSZÁG PREMIUM",5 STAR MAX HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/104001?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MORE MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/More_Max_hd.jpg?7789911" group-title="MAGYARORSZÁG PREMIUM",MORE MAX HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/104002?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/movie_max.jpg?7789912" group-title="MAGYARORSZÁG PREMIUM",MOVIE MAX HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/104003?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="ACTION MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Action_Max.jpg?7789913" group-title="MAGYARORSZÁG PREMIUM",ACTION MAX HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/104004?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="THRILLER MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Thriller_Max.jpg?7789914" group-title="MAGYARORSZÁG PREMIUM",THRILLER MAX HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/104005?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="" tvg-name="OUTER MAX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Outer_Max.jpg?7789918" group-title="MAGYARORSZÁG PREMIUM",OUTER MAX HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/104006?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="50" tvg-name="FILM+ 2HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/FILM_PLUS_2.jpg?7784189" group-title="MAGYARORSZÁG PREMIUM",FILM+ 2HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/74670?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="54" tvg-name="FILM+ 3HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/FILM_PLUS_3.jpg?7784190" group-title="MAGYARORSZÁG PREMIUM",FILM+ 3HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/76846?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="65" tvg-name="FILM+ 4HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/FILM_PLUS_4.jpg?7784191" group-title="MAGYARORSZÁG PREMIUM",FILM+ 4HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/77368?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="66" tvg-name="FILM+ 5HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/FILM_PLUS_5.jpg?7784192" group-title="MAGYARORSZÁG PREMIUM",FILM+ 5HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/77369?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="39" tvg-name="DISNEY+ HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_.jpg?7784193" group-title="MAGYARORSZÁG PREMIUM",DISNEY+ HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/71597?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="44" tvg-name="DISNEY CINEMA HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_CINEMAX.jpg?7784194" group-title="MAGYARORSZÁG PREMIUM",DISNEY CINEMA HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/72031?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="45" tvg-name="NETFLIX HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/NETFIX.jpg?7784195" group-title="MAGYARORSZÁG PREMIUM",NETFLIX HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/73515?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="81" tvg-name="NETFLIX 2 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/NETFIX.jpg?7784195" group-title="MAGYARORSZÁG PREMIUM",NETFLIX 2 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/100305?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="83" tvg-name="NETFLIX 3 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/NETFIX.jpg?7784195" group-title="MAGYARORSZÁG PREMIUM",NETFLIX 3 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/100533?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="69" tvg-name="STAR MOVIE CHANNEL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/STARMOVIES.jpg?7784402" group-title="MAGYARORSZÁG PREMIUM",STAR MOVIE CHANNEL HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/78947?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="55" tvg-name="MAGIC CHANNEL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MAGICCAANNELTV.jpg?7784197" group-title="MAGYARORSZÁG PREMIUM",MAGIC CHANNEL HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/73929?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="68" tvg-name="SCI-FI CHANNEL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/SCIFICHANNEL.jpg?7784198" group-title="MAGYARORSZÁG PREMIUM",SCI-FI CHANNEL HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/78921?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="67" tvg-name="AXN MOVIES HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/AXNMOVIES.jpg?7784199" group-title="MAGYARORSZÁG PREMIUM",AXN MOVIES HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/78180?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="49" tvg-name="METRO GOLDWYN MAYER HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MGMCHANNEL.jpg?7784200" group-title="MAGYARORSZÁG PREMIUM",METRO GOLDWYN MAYER HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/73991?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="56" tvg-name="WESTERN CHANNEL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/WESTERNMOVIE.jpg?7784201" group-title="MAGYARORSZÁG PREMIUM",WESTERN CHANNEL HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/76587?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="40" tvg-name="RETRO SCI-FI HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" group-title="MAGYARORSZÁG PREMIUM",RETRO SCI-FI HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/69747?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="41" tvg-name="RETRO FAMILY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" group-title="MAGYARORSZÁG PREMIUM",RETRO FAMILY HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/69746?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="42" tvg-name="RETRO COMEDY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" group-title="MAGYARORSZÁG PREMIUM",RETRO COMEDY HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/69653?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="53" tvg-name="RETRO THRILLER HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" group-title="MAGYARORSZÁG PREMIUM",RETRO THRILLER HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/76199?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="43" tvg-name="RETRO HORROR HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" group-title="MAGYARORSZÁG PREMIUM",RETRO HORROR HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/71598?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="32" tvg-name="ROYAL COMEDY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL COMEDY HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/69689?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="79" tvg-name="ROYAL FAMILY HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL FAMILY HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/98287?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="59" tvg-name="ROYAL THRILLER HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL THRILLER HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/76590?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="58" tvg-name="ROYAL HORROR HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL HORROR HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/76589?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="60" tvg-name="ROYAL ADAM SANDLER HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL ADAM SANDLER HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/48962?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="63" tvg-name="ROYAL DENZEL WASHINGTON HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL DENZEL WASHINGTON HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/76858?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="61" tvg-name="ROYAL JACKIE CHAN HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/ROYAL.jpg?7784203" group-title="MAGYARORSZÁG PREMIUM",ROYAL JACKIE CHAN HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/48966?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="71" tvg-name="BEST JEAN CLAUDE VAN DAMME HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Movieschannel.jpg?7784209" group-title="MAGYARORSZÁG PREMIUM",BEST JEAN CLAUDE VAN DAMME HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/92417?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="72" tvg-name="BEST BUD SPENCER & TERENCE HILL HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/Movieschannel.jpg?7784209" group-title="MAGYARORSZÁG PREMIUM",BEST BUD SPENCER & TERENCE HILL HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/95544?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="73" tvg-name="MOVIES 1 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MOVIES1.jpg?7784210" group-title="MAGYARORSZÁG PREMIUM",MOVIES 1 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/95871?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="74" tvg-name="MOVIES 2 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MOVIES2.jpg?7784211" group-title="MAGYARORSZÁG PREMIUM",MOVIES 2 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/96148?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="75" tvg-name="MOVIES 3 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MOVIES3.jpg?7784212" group-title="MAGYARORSZÁG PREMIUM",MOVIES 3 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/96404?utc=1674494900&lutc=1674494900
+#EXTINF:-1 tvg-id="76" tvg-name="MOVIES 4 HD" timeshift="0" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MOVIES4.jpg?7784213" group-title="MAGYARORSZÁG PREMIUM",MOVIES 4 HD
+http://royal-cdn.eu:8080/Putnoki/Tibor/96656?utc=1674494900&lutc=1674494900
