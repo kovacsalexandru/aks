@@ -1,0 +1,313 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<winsat>
+<gtplayer>
+<version>6.0.14.230310</version>
+<info>
+<item>1.Add zshare web link;</item>
+<item>2.Add network auxiliary verification;</item>
+<item>3.Improve multilingual translation;</item>
+<item>4.Adjust some UI display;</item>
+</info>
+<enable>
+<!--  system signature  -->
+<item version="1.1.19.180621" upgrade="0"/>
+<item version="1.1.20.180621" upgrade="0"/>
+<item version="1.1.21.180625" upgrade="0"/>
+<item version="1.1.22.180627" upgrade="0"/>
+<item version="1.1.23.180702" upgrade="0"/>
+<item version="1.1.24.180703" upgrade="0"/>
+<item version="1.1.25.180810" upgrade="0"/>
+<item version="1.1.26.180905" upgrade="0"/>
+<item version="1.1.27.180917" upgrade="0"/>
+<item version="1.1.27.181025" upgrade="0"/>
+<item version="1.1.28.181128" upgrade="0"/>
+<!--  app signature  -->
+<item version="2.1.29.181221" upgrade="0"/>
+<item version="3.3.1.30.181224" upgrade="1"/>
+<item version="6.6.1.31.190116" upgrade="1"/>
+<item version="7.7.1.32.190127" upgrade="1"/>
+<item version="7.7.1.32.190219" upgrade="1"/>
+<item version="8.8.1.33.190506" upgrade="1"/>
+<item version="9.9.1.34.190610" upgrade="1"/>
+<item version="10.10.1.35.190711" upgrade="1">
+<!-- 这里的info只是表示该版本做的修改，与升级功能无关 -->
+<info> 1.Add Upgrade dialog; 2.Import stalker account; 3.Fix "unknow" Mac address. </info>
+</item>
+<item version="11.11.1.36.190819" upgrade="1">
+<info>
+<item>1.VOD and SERIES support soft/hard decoding switching;</item>
+<item>2.Solve DTS without audio;</item>
+<item>3.When launching the app opens to the default server;</item>
+<item>4.Add movie details feature;</item>
+<item>5.Fix bugs and optimize UI;</item>
+</info>
+</item>
+<item version="12.12.1.37.191022" upgrade="1">
+<info>
+<item>1.add VOD collection function;</item>
+<item>2.update VOD details interface;</item>
+<item>3.fix M3U crash issue;</item>
+<item>4.add support for more STALKER versions;</item>
+<item>5.optimized database;</item>
+</info>
+</item>
+<item version="13.13.1.38.191206" upgrade="1">
+<info>
+<item>1.Update live interface，contains channel list,channel bar;</item>
+<item>2.Add live collection function;</item>
+<item>3.Redesign add account, server list and main page;</item>
+<item>4.Replace application logo and background image;</item>
+</info>
+</item>
+<item version="14.2.00.001.200106" upgrade="1">
+<info>
+<item>1.fix bug which cannot load adult channels for stalker server</item>
+<item>2.fix bug which the channels cannot be played for stalker server</item>
+<item>3.save live decoder setting option</item>
+<item>4.fix some bugs</item>
+</info>
+</item>
+<item version="15.2.00.002.200317" upgrade="1">
+<info>
+<item>1.Fix unable to save favorite programs when update server;</item>
+<item>2.Fix unable to play Portal server VOD;</item>
+<item>3.Add Polish language support and playback failure tips;</item>
+<item>3.Fix some bugs;</item>
+</info>
+</item>
+<item version="16.2.00.16.200328" upgrade="1">
+<info>
+<item>1. Optimize the playback of 4k programs;</item>
+<item>2.Support switching subtitle audio tracks;</item>
+<item>3.Fix TV show abnormal;</item>
+<item>4. Added support for m3u links.</item>
+</info>
+</item>
+<item version="17.2.00.17.200420" upgrade="1">
+<info>
+<item>1.fix cannot load vod details;</item>
+<item>2.support xtream account without port number;</item>
+<item>3.reload the program after more than one day;</item>
+<item>4.optimize the loading dialog;</item>
+</info>
+</item>
+<item version="18.3.0.0.200608" upgrade="1">
+<info>
+<item>1.Support Brazilian IPTV protocol</item>
+<item>2.Optimize and reconstruct the parental lock function</item>
+<item>3.Optimize the interface of live broadcast, add account, VOD details</item>
+<item>4.Optimize and improve software stability</item>
+<item>5.Fix some bugs</item>
+</info>
+</item>
+<item version="19.3.0.1.200702" upgrade="1">
+<info>
+<item>1.Fix the crash issue</item>
+<item>2.Add red key collection function</item>
+<item>3.Fix bugs and improve stability</item>
+</info>
+</item>
+<item version="20.3.0.2.200730" upgrade="1">
+<info>
+<item>1.quickly load VOD list</item>
+<item>2.fix the issue that live channels cannot be played</item>
+<item>3.add groups for m3u accounts</item>
+<item>4.fix bugs</item>
+</info>
+</item>
+<item version="23.3.0.3.200731" upgrade="1">
+<info>
+<item>1.quickly load VOD list</item>
+<item>2.fix the issue that live channels cannot be played</item>
+<item>3.add groups for m3u accounts</item>
+<item>4.fix bugs and improve stability</item>
+</info>
+</item>
+<item version="24.4.0.0.200917" upgrade="1">
+<info>
+<item>1.Support mobile phone and pad;</item>
+<item>2.Optimize the live UI, support TV and touch devices;</item>
+<item>3.Fix some bugs;</item>
+</info>
+</item>
+<item version="25.4.0.1.200924" upgrade="1">
+<info>
+<item>1.Resolve abnormal error of stalker user login display;</item>
+<item>2.Fix some bugs;</item>
+</info>
+</item>
+<item version="26.4.0.2.201110" upgrade="1">
+<info>
+<item>1.Solve the problem of unavailability of live ipTV in Brazil;</item>
+<item>2.Fix some bugs;</item>
+</info>
+</item>
+<item version="27.4.0.3.201201" upgrade="1">
+<info>
+<item>1.Added support for htts protocol Xtream account to watch movies and TV;</item>
+<item>2.Fix some bugs;</item>
+</info>
+</item>
+<item version="28.5.0.0.210112" upgrade="1">
+<info>
+<item>1.Added Bluetooth voice search program function;</item>
+<item>2.modify some UI details;</item>
+</info>
+</item>
+<item version="29.5.1.0.210119" upgrade="1">
+<info>
+<item>1.Adjusted the Brazil server protocol to fix the issue where the Brazil account could not play video;</item>
+<item>2.Fix some bugs;</item>
+</info>
+</item>
+<item version="30.5.1.1.210129" upgrade="1">
+<info>
+<item>1.Fix some bugs;</item>
+</info>
+</item>
+<item version="31.5.1.2.210628" upgrade="1">
+<info>
+<item>1.add key fav function;</item>
+<item>2.Fix some bugs;</item>
+</info>
+</item>
+<item version="32.5.1.3.210702" upgrade="1">
+<info>
+<item>1.Fix some stalker and xtream account load programs error;</item>
+<item>2.add key fav function;</item>
+<item>3.Fix some bugs;</item>
+</info>
+</item>
+<item version="34.5.1.5.220318" upgrade="1">
+<info>
+<item>1.Add Zhare account support;</item>
+<item>2.Fixed the redirection problem of some accounts;</item>
+<item>3.Add multilingual support for Brazil;</item>
+</info>
+</item>
+<item version="35.5.1.6.220322" upgrade="1">
+<info>
+<item>1.Fix the problem of displaying the network speed loading box during smooth playback;</item>
+</info>
+</item>
+<item version="36.5.1.7.220402" upgrade="1">
+<info>
+<item>1.Add Zshare account password login verification logic</item>
+<item>2.Fixed the refresh problem and duplicate problem in the service list after the account is logged in</item>
+<item>3.Modify some interface optimization adjustments</item>
+</info>
+</item>
+<item version="37.5.1.8.220427" upgrade="1">
+<info>
+<item>1.Add BTVPro entry;</item>
+<item>2.Fix the display abnormal problem in Arabic;</item>
+<item>3.Modify the contact information of relevant suppliers of Zshare;</item>
+</info>
+</item>
+<item version="38.5.1.9.220429" upgrade="1">
+<info>
+<item>1. Modify the Zshare UI layout;</item>
+<item>2. Modify Zshare login and expiration time prompt logic;</item>
+<item>3. fixed some toast display;</item>
+</info>
+</item>
+<item version="39.6.0.0.220609" upgrade="1">
+<info>
+<item>1. fix UP/DOWN key function;</item>
+<item>2. Add subtitle Off function;</item>
+<item>3. Optimize account loading speed;</item>
+</info>
+</item>
+<item version="40.6.0.1.220617" upgrade="1">
+<info>
+<item>1. Modify the Zshare contact info;</item>
+<item>2. fixed some problem;</item>
+</info>
+</item>
+<item version="41.6.0.2.220720" upgrade="1">
+<info>
+<item>1. Added VOD IP subtitle function;</item>
+<item>2. Support mobile phone subtitle and audio track function;</item>
+<item>3. fixed some problem;</item>
+</info>
+</item>
+<item version="42.6.0.3.220727" upgrade="1">
+<info>
+<item>1. Optimized the Setting interface;</item>
+<item>2. Added volume buttons in full screen;</item>
+<item>3. fixed some problem;</item>
+</info>
+</item>
+<item version="43.6.0.4.220818" upgrade="1">
+<info>
+<item>1. Program loading issues;</item>
+<item>2. fixed some problem;</item>
+</info>
+</item>
+<item version="44.6.0.5.221101" upgrade="1">
+<info>
+<item>1. modify some Support function;</item>
+<item>2. fixed some problem;</item>
+</info>
+</item>
+<item version="45.6.0.6.221206" upgrade="1">
+<info>
+<item>1. Support zshare viewing service;</item>
+<item>2. Modify the problem that the service timeout is too long;</item>
+<item>3. fixed some problem;</item>
+</info>
+</item>
+<item version="46.6.0.7.221207" upgrade="1">
+<info>
+<item>1. modify zshare acount data format;</item>
+<item>2. modify zshare acount user display;</item>
+<item>3. fixed problem for other account can not enter channel list page;</item>
+</info>
+</item>
+<item version="47.6.0.8.221215" upgrade="1">
+<info>
+<item>1. modify UI logic;</item>
+<item>2. Fix some bugs;</item>
+</info>
+</item>
+<item version="48.6.0.9.221230" upgrade="1">
+<info>
+<item>1. UI optimization;</item>
+<item>2. Fix some bugs;</item>
+</info>
+</item>
+<item version="49.6.0.10.230113" upgrade="1">
+<info>
+<item>1.Fix some crash issues;</item>
+<item>2.Optimized some playback issues;</item>
+</info>
+</item>
+<item version="50.6.0.11.230203" upgrade="1">
+<info>
+<item>1.Solve some flashback problems;</item>
+<item>2.Improve some prompt information;</item>
+</info>
+</item>
+<item version="51.6.0.12.230216" upgrade="1">
+<info>
+<item>1.Fix play crash problem for over android 12;</item>
+<item>2.adjustments some prompt information;</item>
+</info>
+</item>
+<item version="52.6.0.13.230223" upgrade="1">
+<info>
+<item>1.Fix the problem that some devices above Android 12 cannot log in;</item>
+<item>2.Adjust the corresponding prompt information;</item>
+</info>
+</item>
+<item version="53.6.0.14.230310" upgrade="0">
+<info>
+<item>1.Add zshare web link;</item>
+<item>2.Add network auxiliary verification;</item>
+<item>3.Improve multilingual translation;</item>
+<item>4.Adjust some UI display;</item>
+</info>
+</item>
+</enable>
+</gtplayer>
+</winsat>
