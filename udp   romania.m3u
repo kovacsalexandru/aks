@@ -1,4 +1,18 @@
-﻿#EXTM3U
+#EXTM3U
+#EXTINF:-1,PRIMA COMEDY
+http://84.17.61.203:8086/udp/229.157.21.26:1234
+#EXTINF:-1,Digi Sport 1
+http://84.17.61.203:8086/udp/238.2.25.79:1234
+#EXTINF:-1,Digi Sport 2
+http://84.17.61.203:8086/udp/238.2.25.78:1234
+#EXTINF:-1,Digi Sport 3
+http://84.17.61.203:8086/udp/238.2.25.90:1234
+#EXTINF:-1,HBO Ro
+http://84.17.61.203:8086/udp/238.2.25.63:1234
+#EXTINF:-1,HBO2 RO
+http://84.17.61.203:8086/udp/238.2.25.88:1234
+#EXTINF:-1,Super One
+http://84.17.61.203:8086/udp/238.2.25.83:1234
 #EXTINF:-1,ACASA GOLD
 http://84.17.61.203:8086/udp/229.35.13.2:1234
 #EXTINF:-1,Alfa Omega
@@ -319,22 +333,6 @@ http://84.17.61.203:8086/udp/238.2.27.182:1234
 http://84.17.61.203:8086/udp/238.2.27.183:1234
 #EXTINF:-1,4831 HD
 http://84.17.61.203:8086/udp/238.2.146.223:1234
-#EXTINF:-1,HUSTLER HD
-http://84.17.61.203:8086/udp/238.2.18.80:1234
-#EXTINF:-1,DORCEL HD
-http://84.17.61.203:8086/udp/238.2.18.78:1234
-#EXTINF:-1,REDLIGHT HD
-http://84.17.61.203:8086/udp/238.2.18.82:1234
-#EXTINF:-1,PRIVATE
-http://84.17.61.203:8086/udp/238.2.132.186:1234
-#EXTINF:-1,HUSTLER TV
-http://84.17.61.203:8086/udp/238.2.5.204:1234
-#EXTINF:-1,SuperONE HD
-http://84.17.61.203:8086/udp/229.35.13.83:1234
-#EXTINF:-1,Penthouse Gold HD
-http://84.17.61.203:8086/udp/229.28.15.59:1234
-#EXTINF:-1,Penthouse Passion HD
-http://84.17.61.203:8086/udp/229.28.15.60:1234
 #EXTINF:-1,Nat Geo Wild HD
 http://84.17.61.203:8086/udp/229.28.15.85:1234
 #EXTINF:-1,
@@ -564,6 +562,40 @@ http://84.17.61.203:8086/udp/238.2.133.23:1234
 #EXTINF:-1,5400
 http://84.17.61.203:8086/udp/238.2.133.24:1234
 #EXTINF:-1,5402
+#EXTINF:-1,HUSTLER HD
+http://84.17.61.203:8086/udp/238.2.18.80:1234
+#EXTINF:-1,DORCEL HD
+http://84.17.61.203:8086/udp/238.2.18.78:1234
+#EXTINF:-1,REDLIGHT HD
+http://84.17.61.203:8086/udp/238.2.18.82:1234
+#EXTINF:-1,PRIVATE
+http://84.17.61.203:8086/udp/238.2.132.186:1234
+#EXTINF:-1,HUSTLER TV
+http://84.17.61.203:8086/udp/238.2.5.204:1234
+#EXTINF:-1,SuperONE HD
+http://84.17.61.203:8086/udp/229.35.13.83:1234
+#EXTINF:-1,Penthouse Gold HD
+http://84.17.61.203:8086/udp/229.28.15.59:1234
+#EXTINF:-1,Penthouse Passion HD
+http://84.17.61.203:8086/udp/229.28.15.60:1234
 http://84.17.61.203:8086/udp/238.2.133.26:1234
-
+#EXTINF:-1,Blonde
+#EXTINF:-1,Super One (+18)
+http://84.17.61.203:8086/udp/238.2.25.83:1234
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1,Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1,Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1,Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTM3U
+#EXTINF:-1,MyCamTV Mature
+http://live.mycamtv.com:80/bigtits.m3u8
+#EXTINF:-1,MyCamTV Girls Squirt
+http://live.mycamtv.com:80/squirt.m3u8
+#EXTINF:-1,MyCamTV Big Ass Girls
+http://live.mycamtv.com:80/bigass.m3u8
+#EXTINF:-1,MyCamTV Anal
+http://live.mycamtv.com:80/anal.m3u8
 
