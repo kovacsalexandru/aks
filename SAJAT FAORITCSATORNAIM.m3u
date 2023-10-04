@@ -1,0 +1,809 @@
+#EXTM3U
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/18_HBOHD.png" tvg-id="hbo.hu" ,HBO HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/50
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/19_HBO2HD.png" tvg-id="hbo2.hu" ,HBO 2 HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/8831
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/20_HBO3HD.png" tvg-id="hbo3.hu" ,HBO 3 HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/8832
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/28_FilmPlusHd.png" tvg-id="filmplus.hu" ,FILM+ HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/39
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/29_FilmCaf%C3%A9.png" tvg-id="filmcafe.hu" ,FILM CAFE HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/31046
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/30_FilmMania.png" tvg-id="filmmania.hu" ,FILM MANIA HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/78352
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/31_Film4.png" tvg-id="film4.hu" ,FILM 4 HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/42584
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/mmtv_wide.png?itok=eI3tY2n9" ,MAGYAR MOZI TV SD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/111003
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/32_Moziverzumhd.png" tvg-id="moziverzum.hu" ,MOZIVERZUM HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/15674
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Mozi_hd.jpg?7782014" tvg-id="moziplus.hu" ,MOZI + HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/15673
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/AMCHD.png" tvg-id="amc.hu" ,AMC HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/15671
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/AXNHD.png" tvg-id="axn.hu" ,AXN HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/16698
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/TOMESJERRY.png" ,TOM ÉS JERRY HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/98235
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/SCOOBY.png" ,CSAK LAZÁN SCOOBY DOO HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/98228
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/SOPNGYABOB.png" ,SPONGYABOB KOCKANADRÁG HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/98239
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/GRIZZY.png" ,GRIZZY ÉS A LEMINGENEK HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/98243
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MASA.png" ,MÁSA ÉS A MEDVE HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/98230
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MRBEAN.png" ,MR.BEAN A RAJZFILMSOROZAT HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/98229
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/CN.png" tvg-id="cartoonnetwork" ,CARTOON NETWORK SD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/12
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MARVELDC.png" tvg-id="40" ,MARVEL & DC HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/76844
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MARVELSTUDIO.png" tvg-id="39" ,MARVEL HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/104007
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/DC.png" tvg-id="18" ,DC UNIVERSE HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/104008
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOGO.png" tvg-id="25" ,HBO GO HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/70933
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOMAX.png" tvg-id="59" ,HBO MAX HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/70964
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOZONE.png" tvg-id="35" ,HBO ZONE HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/74669
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOFAMILY.png" tvg-id="31" ,HBO FAMILY HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/76857
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOPLUS.png" tvg-id="33" ,HBO PLUS HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/76871
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOCOMEDY.png" tvg-id="30" ,HBO COMEDY HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/85419
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOSIGNATURE.png" tvg-id="34" ,HBO SIGNATURE HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/96835
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOKIDS.png" tvg-id="32" ,HBO KIDS HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/100362
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/5Star_Max.png" tvg-id="60" ,5 STAR MAX HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/104001
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/More_Max_hd.png" tvg-id="62" ,MORE MAX HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/104002
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/movie_max.png" tvg-id="63" ,MOVIE MAX HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/104003
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Action_Max.png" tvg-id="61" ,ACTION MAX HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/104004
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Thriller_Max.png" tvg-id="65" ,THRILLER MAX HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/104005
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_3.png" tvg-id="24" ,FILM+ 3HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/76846
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_4.png" tvg-id="21" ,FILM+ 4HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/77368
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_5.png" tvg-id="22" ,FILM+ 5HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/77369
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_.jpg?7784193" tvg-id="20" ,DISNEY+ HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/71597
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_CINEMAX.jpg?7784194" tvg-id="19" ,DISNEY CINEMA HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/72031
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/NETFIX.png" tvg-id="46" ,NETFLIX HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/73515
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/NETFIX.png" tvg-id="47" ,NETFLIX 2 HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/100305
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/STARMOVIES.png" tvg-id="51" ,STAR MOVIE CHANNEL HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/78947
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MAGICCAANNELTV.jpg?7784197" tvg-id="38" ,MAGIC CHANNEL HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/73929
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/SCIFICHANNEL.png" tvg-id="50" ,SCI-FI CHANNEL HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/78921
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/AXNMOVIES.jpg?7784199" tvg-id="17" ,AXN MOVIES HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/78180
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MGMCHANNEL.png" tvg-id="41" ,METRO GOLDWYN MAYER HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/73991
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/WESTERNMOVIE.png" tvg-id="54" ,WESTERN CHANNEL HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/76587
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="16" ,RETRO SCI-FI HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/69747
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="14" ,RETRO FAMILY HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/69746
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="15" ,RETRO COMEDY HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/69653
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="12" ,RETRO THRILLER HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/76199
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="13" ,RETRO HORROR HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/71598
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="8" ,ROYAL COMEDY HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/69689
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="7" ,ROYAL FAMILY HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/98287
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="4" ,ROYAL THRILLER HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/76590
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="6" ,ROYAL HORROR HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/76589
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="11" ,ROYAL ADAM SANDLER HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/48962
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png784203" tvg-id="10" ,ROYAL DENZEL WASHINGTON HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/76858
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="9" ,ROYAL JACKIE CHAN HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/48966
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Movieschannel.png" tvg-id="53" ,BEST JEAN CLAUDE VAN DAMME HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/92417
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Movieschannel.png" tvg-id="52" ,BEST BUD SPENCER & TERENCE HILL HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/95544
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES1.png" tvg-id="42" ,MOVIES 1 HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/95871
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES2.png" tvg-id="43" ,MOVIES 2 HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/96148
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES3.png" tvg-id="44" ,MOVIES 3 HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/96404
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES4.png" tvg-id="45" ,MOVIES 4 HD
+http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/96656
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/18_HBOHD.png" tvg-id="hbo.hu" ,HBO HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/50
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/19_HBO2HD.png" tvg-id="hbo2.hu" ,HBO 2 HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/8831
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/20_HBO3HD.png" tvg-id="hbo3.hu" ,HBO 3 HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/8832
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/28_FilmPlusHd.png" tvg-id="filmplus.hu" ,FILM+ HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/39
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/29_FilmCaf%C3%A9.png" tvg-id="filmcafe.hu" ,FILM CAFE HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/31046
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/30_FilmMania.png" tvg-id="filmmania.hu" ,FILM MANIA HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/78352
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/32_Moziverzumhd.png" tvg-id="moziverzum.hu" ,MOZIVERZUM HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/15674
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Mozi_hd.jpg?7782014" tvg-id="moziplus.hu" ,MOZI + HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/15673
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/AMCHD.png" tvg-id="amc.hu" ,AMC HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/15671
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/AXNHD.png" tvg-id="axn.hu" ,AXN HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/16698
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MARVELDC.png" tvg-id="40" ,MARVEL & DC HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/76844
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MARVELSTUDIO.png" tvg-id="39" ,MARVEL HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/104007
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/DC.png" tvg-id="18" ,DC UNIVERSE HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/104008
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOGO.png" tvg-id="25" ,HBO GO HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/70933
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOMAX.png" tvg-id="59" ,HBO MAX HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/70964
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOZONE.png" tvg-id="35" ,HBO ZONE HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/74669
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOFAMILY.png" tvg-id="31" ,HBO FAMILY HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/76857
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOPLUS.png" tvg-id="33" ,HBO PLUS HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/76871
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOCOMEDY.png" tvg-id="30" ,HBO COMEDY HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/85419
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOSIGNATURE.png" tvg-id="34" ,HBO SIGNATURE HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/96835
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOKIDS.png" tvg-id="32" ,HBO KIDS HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/100362
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/5Star_Max.png" tvg-id="60" ,5 STAR MAX HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/104001
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/More_Max_hd.png" tvg-id="62" ,MORE MAX HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/104002
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/movie_max.png" tvg-id="63" ,MOVIE MAX HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/104003
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Action_Max.png" tvg-id="61" ,ACTION MAX HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/104004
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Thriller_Max.png" tvg-id="65" ,THRILLER MAX HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/104005
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_3.png" tvg-id="24" ,FILM+ 3HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/76846
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_4.png" tvg-id="21" ,FILM+ 4HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/77368
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_5.png" tvg-id="22" ,FILM+ 5HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/77369
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_.jpg?7784193" tvg-id="20" ,DISNEY+ HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/71597
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_CINEMAX.jpg?7784194" tvg-id="19" ,DISNEY CINEMA HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/72031
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/NETFIX.png" tvg-id="46" ,NETFLIX HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/73515
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/NETFIX.png" tvg-id="47" ,NETFLIX 2 HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/100305
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/NETFIX.png" tvg-id="48" ,NETFLIX 3 HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/100533
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/STARMOVIES.png" tvg-id="51" ,STAR MOVIE CHANNEL HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/78947
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MAGICCAANNELTV.jpg?7784197" tvg-id="38" ,MAGIC CHANNEL HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/73929
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/SCIFICHANNEL.png" tvg-id="50" ,SCI-FI CHANNEL HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/78921
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/AXNMOVIES.jpg?7784199" tvg-id="17" ,AXN MOVIES HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/78180
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MGMCHANNEL.png" tvg-id="41" ,METRO GOLDWYN MAYER HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/73991
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/WESTERNMOVIE.png" tvg-id="54" ,WESTERN CHANNEL HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/76587
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="16" ,RETRO SCI-FI HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/69747
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="14" ,RETRO FAMILY HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/69746
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="15" ,RETRO COMEDY HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/69653
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="12" ,RETRO THRILLER HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/76199
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="13" ,RETRO HORROR HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/71598
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="8" ,ROYAL COMEDY HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/69689
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="7" ,ROYAL FAMILY HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/98287
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="4" ,ROYAL THRILLER HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/76590
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="6" ,ROYAL HORROR HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/76589
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="11" ,ROYAL ADAM SANDLER HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/48962
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png784203" tvg-id="10" ,ROYAL DENZEL WASHINGTON HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/76858
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="9" ,ROYAL JACKIE CHAN HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/48966
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Movieschannel.png" tvg-id="53" ,BEST JEAN CLAUDE VAN DAMME HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/92417
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Movieschannel.png" tvg-id="52" ,BEST BUD SPENCER & TERENCE HILL HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/95544
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES1.png" tvg-id="42" ,MOVIES 1 HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/95871
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES2.png" tvg-id="43" ,MOVIES 2 HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/96148
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES3.png" tvg-id="44" ,MOVIES 3 HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/96404
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES4.png" tvg-id="45" ,MOVIES 4 HD
+http://royal-cdn.eu:8080/64:1c:b0:48:e3:d1/kAaanMgM/96656
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/18_HBOHD.png" tvg-id="hbo.hu" ,HBO HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/50
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/19_HBO2HD.png" tvg-id="hbo2.hu" ,HBO 2 HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/8831
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/20_HBO3HD.png" tvg-id="hbo3.hu" ,HBO 3 HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/8832
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/28_FilmPlusHd.png" tvg-id="filmplus.hu" ,FILM+ HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/39
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/29_FilmCaf%C3%A9.png" tvg-id="filmcafe.hu" ,FILM CAFE HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/31046
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/30_FilmMania.png" tvg-id="filmmania.hu" ,FILM MANIA HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/78352
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/32_Moziverzumhd.png" tvg-id="moziverzum.hu" ,MOZIVERZUM HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/15674
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81206517/large/Mozi_hd.jpg?7782014" tvg-id="moziplus.hu" ,MOZI + HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/15673
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/AMCHD.png" tvg-id="amc.hu" ,AMC HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/15671
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/AXNHD.png" tvg-id="axn.hu" ,AXN HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/16698
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MARVELDC.png" tvg-id="40" ,MARVEL & DC HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/76844
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MARVELSTUDIO.png" tvg-id="39" ,MARVEL HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/104007
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/DC.png" tvg-id="18" ,DC UNIVERSE HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/104008
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOGO.png" tvg-id="25" ,HBO GO HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/70933
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOMAX.png" tvg-id="59" ,HBO MAX HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/70964
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOZONE.png" tvg-id="35" ,HBO ZONE HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/74669
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOFAMILY.png" tvg-id="31" ,HBO FAMILY HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/76857
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOPLUS.png" tvg-id="33" ,HBO PLUS HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/76871
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOCOMEDY.png" tvg-id="30" ,HBO COMEDY HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/85419
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOSIGNATURE.png" tvg-id="34" ,HBO SIGNATURE HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/96835
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOKIDS.png" tvg-id="32" ,HBO KIDS HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/100362
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/5Star_Max.png" tvg-id="60" ,5 STAR MAX HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/104001
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/More_Max_hd.png" tvg-id="62" ,MORE MAX HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/104002
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/movie_max.png" tvg-id="63" ,MOVIE MAX HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/104003
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Action_Max.png" tvg-id="61" ,ACTION MAX HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/104004
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Thriller_Max.png" tvg-id="65" ,THRILLER MAX HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/104005
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_3.png" tvg-id="24" ,FILM+ 3HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/76846
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_4.png" tvg-id="21" ,FILM+ 4HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/77368
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_5.png" tvg-id="22" ,FILM+ 5HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/77369
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_.jpg?7784193" tvg-id="20" ,DISNEY+ HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/71597
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_CINEMAX.jpg?7784194" tvg-id="19" ,DISNEY CINEMA HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/72031
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/NETFIX.png" tvg-id="46" ,NETFLIX HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/73515
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/NETFIX.png" tvg-id="47" ,NETFLIX 2 HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/100305
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/NETFIX.png" tvg-id="48" ,NETFLIX 3 HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/100533
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/STARMOVIES.png" tvg-id="51" ,STAR MOVIE CHANNEL HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/78947
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MAGICCAANNELTV.jpg?7784197" tvg-id="38" ,MAGIC CHANNEL HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/73929
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/SCIFICHANNEL.png" tvg-id="50" ,SCI-FI CHANNEL HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/78921
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/AXNMOVIES.jpg?7784199" tvg-id="17" ,AXN MOVIES HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/78180
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MGMCHANNEL.png" tvg-id="41" ,METRO GOLDWYN MAYER HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/73991
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/WESTERNMOVIE.png" tvg-id="54" ,WESTERN CHANNEL HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/76587
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="16" ,RETRO SCI-FI HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/69747
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="14" ,RETRO FAMILY HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/69746
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="15" ,RETRO COMEDY HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/69653
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="12" ,RETRO THRILLER HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/76199
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="13" ,RETRO HORROR HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/71598
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="8" ,ROYAL COMEDY HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/69689
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="7" ,ROYAL FAMILY HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/98287
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="4" ,ROYAL THRILLER HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/76590
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="11" ,ROYAL ADAM SANDLER HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/48962
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="6" ,ROYAL HORROR HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/76589
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png784203" tvg-id="10" ,ROYAL DENZEL WASHINGTON HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/76858
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="9" ,ROYAL JACKIE CHAN HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/48966
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Movieschannel.png" tvg-id="53" ,BEST JEAN CLAUDE VAN DAMME HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/92417
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Movieschannel.png" tvg-id="52" ,BEST BUD SPENCER & TERENCE HILL HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/95544
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES1.png" tvg-id="42" ,MOVIES 1 HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/95871
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES2.png" tvg-id="43" ,MOVIES 2 HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/96148
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES3.png" tvg-id="44" ,MOVIES 3 HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/96404
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES4.png" tvg-id="45" ,MOVIES 4 HD
+http://royal-cdn.eu:8080/IstanRaduly/jF74pwd4/96656
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MARVELDC.png" tvg-id="40" ,MARVEL & DC HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/76844
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MARVELSTUDIO.png" tvg-id="39" ,MARVEL HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/104007
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/DC.png" tvg-id="18" ,DC UNIVERSE HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/104008
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOGO.png" tvg-id="25" ,HBO GO HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/70933
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOMAX.png" tvg-id="59" ,HBO MAX HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/70964
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOZONE.png" tvg-id="35" ,HBO ZONE HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/74669
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOFAMILY.png" tvg-id="31" ,HBO FAMILY HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/76857
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOPLUS.png" tvg-id="33" ,HBO PLUS HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/76871
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOCOMEDY.png" tvg-id="30" ,HBO COMEDY HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/85419
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOSIGNATURE.png" tvg-id="34" ,HBO SIGNATURE HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/96835
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/HBOKIDS.png" tvg-id="32" ,HBO KIDS HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/100362
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/5Star_Max.png" tvg-id="60" ,5 STAR MAX HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/104001
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/More_Max_hd.png" tvg-id="62" ,MORE MAX HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/104002
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/movie_max.png" tvg-id="63" ,MOVIE MAX HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/104003
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Action_Max.png" tvg-id="61" ,ACTION MAX HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/104004
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Thriller_Max.png" tvg-id="65" ,THRILLER MAX HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/104005
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Outer_Max.png" tvg-id="64" ,OUTER MAX HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/104006
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_3.png" tvg-id="24" ,FILM+ 3HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/76846
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_4.png" tvg-id="21" ,FILM+ 4HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/77368
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/FILM_PLUS_5.png" tvg-id="22" ,FILM+ 5HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/77369
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_.jpg?7784193" tvg-id="20" ,DISNEY+ HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/71597
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/DISNEY_CINEMAX.jpg?7784194" tvg-id="19" ,DISNEY CINEMA HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/72031
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/NETFIX.png" tvg-id="46" ,NETFLIX HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/73515
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/NETFIX.png" tvg-id="47" ,NETFLIX 2 HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/100305
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/NETFIX.png" tvg-id="48" ,NETFLIX 3 HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/100533
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/STARMOVIES.png" tvg-id="51" ,STAR MOVIE CHANNEL HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/78947
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/MAGICCAANNELTV.jpg?7784197" tvg-id="38" ,MAGIC CHANNEL HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/73929
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/SCIFICHANNEL.png" tvg-id="50" ,SCI-FI CHANNEL HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/78921
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/AXNMOVIES.jpg?7784199" tvg-id="17" ,AXN MOVIES HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/78180
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MGMCHANNEL.png" tvg-id="41" ,METRO GOLDWYN MAYER HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/73991
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/WESTERNMOVIE.png" tvg-id="54" ,WESTERN CHANNEL HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/76587
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="16" ,RETRO SCI-FI HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/69747
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="14" ,RETRO FAMILY HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/69746
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="15" ,RETRO COMEDY HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/69653
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="12" ,RETRO THRILLER HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/76199
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://site-1972129.mozfiles.com/files/1972129/galleries/81125398/large/RETRO.jpg?7784202" tvg-id="13" ,RETRO HORROR HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/71598
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="8" ,ROYAL COMEDY HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/69689
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="7" ,ROYAL FAMILY HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/98287
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="4" ,ROYAL THRILLER HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/76590
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="6" ,ROYAL HORROR HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/76589
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="11" ,ROYAL ADAM SANDLER HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/48962
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png784203" tvg-id="10" ,ROYAL DENZEL WASHINGTON HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/76858
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/ROYAL.png" tvg-id="9" ,ROYAL JACKIE CHAN HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/48966
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Movieschannel.png" tvg-id="53" ,BEST JEAN CLAUDE VAN DAMME HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/92417
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/Movieschannel.png" tvg-id="52" ,BEST BUD SPENCER & TERENCE HILL HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/95544
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES1.png" tvg-id="42" ,MOVIES 1 HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/95871
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES2.png" tvg-id="43" ,MOVIES 2 HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/96148
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES3.png" tvg-id="44" ,MOVIES 3 HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/96404
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://royal.mystatichost.com/tv_logok/MOVIES4.png" tvg-id="45" ,MOVIES 4 HD
+http://norberttv.royal-tv.xyz:8080/dudaslaszlo/bfMex43c/96656
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://torba.live/storage/iptv/channels/DWAxrNcjen.png" tvg-id="153" tvg-name="Film+" ,Film+
+http://srvr1.torba.fun/cH6Rl5RXLP/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://torba.live/storage/iptv/channels/JRh5MIhzPL.png" tvg-id="179" tvg-name="Film Cafe" ,Film Cafe
+http://srvr1.torba.fun/lNgDwgMOQB/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 group-title="sajatfavoit" tvg-id="500" tvg-name="HBO HD+" ,HBO HD+
+http://srvr1.torba.fun/PrG1jkQ58a/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 group-title="sajatfavoit" tvg-id="637" tvg-name="HBO3 HD" ,HBO3 HD
+http://srvr1.torba.fun/UDBQ31PaMI/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://torba.live/storage/iptv/channels/slVqsFKQVR.png" tvg-id="295" tvg-name="HBO HD" ,HBO HD
+http://srvr1.torba.fun/4bavqMBhtr/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 group-title="sajatfavoit" tvg-id="581" tvg-name="Film+ hd" ,Film+ hd
+http://srvr1.torba.fun/YTzJkupUvh/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 group-title="sajatfavoit" tvg-id="638" tvg-name="Moziverzum" ,Moziverzum
+http://srvr1.torba.fun/CUEzl8GPpB/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 group-title="sajatfavoit" tvg-id="339" tvg-name="Film Mania" ,Film Mania
+http://srvr1.torba.fun/lYm2KVLjtc/mpegts?token=pqFrLaeZndS3K4Yk
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIcqYxBShqQlOoE0bEcXPfb2rlQNClyE8mXxCFAFV2qP0jVFSv&usqp=CAU" tvg-id="moziplus.hu" ,HU: Mozi+
+http://localiptv.site:85/DzemoDisko/m6Dr5DrLXJWS/534
+#EXTINF:-1 group-title="sajatfavoit" tvg-id="moziverzum.hu" ,HU: Moziversum (HD)
+http://localiptv.site:85/DzemoDisko/m6Dr5DrLXJWS/23582
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2g7mDgQ20Mwdb_0MPDXjuLEp58zL8nHBQn6h7ivArTpGo3MPD&usqp=CAU" tvg-id="moziverzum.hu" ,HU: Moziverzum
+http://localiptv.site:85/DzemoDisko/m6Dr5DrLXJWS/533
+#EXTINF:-1 group-title="sajatfavoit" tvg-id="hbo2.hu" ,HU: HBO 2  (HD)
+http://localiptv.site:85/DzemoDisko/m6Dr5DrLXJWS/6737
+#EXTINF:-1 group-title="sajatfavoit" tvg-id="hbo3.hu" ,HU: HBO 3 (HD)
+http://localiptv.site:85/DzemoDisko/m6Dr5DrLXJWS/552
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJp10fp7ay5Zck0VYs7508Qyk9Ku9kz9riCsGHK1nOQxp6IDQ8&usqp=CAU" tvg-id="hbo.hu" ,HU: HBO  (HD)
+http://localiptv.site:85/DzemoDisko/m6Dr5DrLXJWS/6736
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6mfWYZMmgouwsqUebQ4vkCC1Tkewf_xWtCR5vi3NmP1Vfm8i8&usqp=CAU" tvg-id="amc.hu" ,HU: AMC
+http://localiptv.site:85/DzemoDisko/m6Dr5DrLXJWS/1628
+#EXTINF:-1 group-title="sajatfavoit" ,HU: 24/7 AKCIO Filmezz
+http://localiptv.site:85/DzemoDisko/m6Dr5DrLXJWS/38786
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Comedy-PNG-Free-Download.png" tvg-id="12738" ,24/7 Vígjáték
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15533
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.seekpng.com/png/detail/13-134642_action-sticker.png" tvg-id="12516" ,24/7 Akció
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15491
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.pngall.com/wp-content/uploads/6/Science-Fiction-PNG-High-Quality-Image.png" tvg-id="12739" ,24/7 Sci-fi
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15493
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://i2.wp.com/www.jumbojetje.nl/tutorials/wp-content/uploads/2009/07/horror-tekst-19.jpg" tvg-id="12546" ,24/7 Horror
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15494
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.pngkey.com/png/detail/306-3069820_sip-creatives-michael-jackson-thriller-logo-png.png" tvg-id="12737" ,24/7 Thriller
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15495
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.pngkey.com/png/full/489-4898403_50-musical-theatrical-and-instrumental-shows-performed-theatre.png" tvg-id="12740" ,24/7 Dráma
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15497
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.pngitem.com/pimgs/m/49-493423_transparent-walk-clipart-family-with-kids-png-png.png" tvg-id="12493" ,24/7 Filmek az egész családnak
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15498
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://images.fanart.tv/fanart/batman-547bf36587ea9.png" tvg-id="12544" ,24/7 Hősök & antihősök
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15500
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://p.kindpng.com/picc/s/137-1371319_shrek-meme-birthday-card-shrek-emoji-png-transparent.png" tvg-id="12688" ,24/7 Animáció
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15501
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://pngpress.com/wp-content/uploads/2020/03/Disney-Logo-PNG-Clipart.png" tvg-id="12687" ,24/7 Disney
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15502
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/2560px-Marvel_Logo.svg.png" tvg-id="12413" ,24/7 Marvel univerzum
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15503
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://images.fanart.tv/fanart/the-fast-and-the-furious-51967ada8296f.png" tvg-id="12455" ,24/7 Halálos iramban
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15519
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://images.fanart.tv/fanart/james-bond-collection-51f3b5c745f9d.png" tvg-id="12540" ,24/7 James Bond
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15518
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://images.fanart.tv/fanart/into-the-dark-5b9b66d5f3d92.png" tvg-id="12527" ,24/7 A sötétség titkai
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15517
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://images.fanart.tv/fanart/the-lord-of-the-rings-collection-616e92c84961b.png" tvg-id="12476" ,24/7 A Gyűrűk ura
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15521
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://images.fanart.tv/fanart/star-wars-collection-52dad3a70f76e.png" tvg-id="12461" ,24/7 Star wars
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15522
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://images.fanart.tv/fanart/transformers-5044d8a9f18ce.png" tvg-id="15701" ,24/7 Transformers
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15703
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://images.fanart.tv/fanart/saw-collection-5529db44d9486.png" tvg-id="12460" ,24/7 Fűrész
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15525
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://images.fanart.tv/fanart/paranormal-activity-collection-520a89ced61f2.png" tvg-id="12433" ,24/7 Paranormal activity
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15526
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://images.fanart.tv/fanart/resident-evil-collection-5787518083bb2.png" tvg-id="13651" ,24/7 Resident evil
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15527
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png" tvg-id="Film+" ,FILM+
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15575
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/2560px-Mozi%2B_logo.svg.png" tvg-id="Mozi+" ,MOZI+
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/16369
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Moziverzum_logo.png" tvg-id="Moziverzum" ,MOZIVERZUM
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15688
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/2560px-AMC_logo_2016.svg.png" tvg-id="AMC" ,AMC
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15580
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://i62.servimg.com/u/f62/17/97/59/55/film_c17.png" tvg-id="Film_Cafe" ,FILM CAFÉ
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15672
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Filmmania-tp.png" tvg-id="Film_Mania" ,FILM MÁNIA
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/16208
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.pngkey.com/png/full/223-2235429_hbo-logo-hbo-logo-png.png" tvg-id="HBO" ,HBO HD
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/16319
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" tvg-id="HBO2.hu" ,HBO2
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/17662
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" tvg-id="HBO_2" ,HBO2 HD
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/16209
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" tvg-id="HBO_3" ,HBO3 HD
+http://31.220.40.122:8801/kovacsalex/JqPNXt27tV/15636
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/hbo_hd_wide.png?itok=bRRNCOeW" tvg-id="HBO HD" ,HBO 1 HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71097
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" tvg-id="HBO 2 HD" ,HBO 2 HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71095
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.pcdays.cz/wp-content/uploads/2016/03/HBO3_HD_3d_transparent-e1458077883683.png" tvg-id="HBO 3 HD" ,HBO 3 HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71093
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://wp20-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_149_c_4481f1f32753ee30de0da495bfa9862e.png" tvg-id="filmplus.hu" ,Film+ HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71073
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://digitalvac.hu/upcsatorna/film_cafe_hu.png" tvg-id="FILMCAFE" ,Film Cafe HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71071
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_9_c_714de3eec92df3993fbd588437750403.png" tvg-id="filmmania.hu" ,Film Mania
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71069
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Moziverzum_logo.png" tvg-id="moziverzum.hu" ,Moziverzum HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71066
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/1200px-Mozi%2B_logo.svg.png" tvg-id="moziplus.hu" ,Mozi+
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71064
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://24.p3k.hu/app/uploads/2016/11/mozihd.jpg" tvg-id="moziplus.hu" ,Mozi+ HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71063
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/AMC/medium.jpg" tvg-id="AMC HD" ,AMC HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71060
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.vhv.rs/dpng/d/177-1771785_axn-hd-logo-2015-axn-hd-logo-hd.png" tvg-id="AXN HD" ,AXN HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71058
+#EXTINF:-1 group-title="sajatfavoit" ,HU | DIGI Filmⓧ
+http://onlyfans.buzz:8080/acasa/KreDrkd9Tz/90525
+#EXTINF:-1 group-title="sajatfavoit" ,HU | AMC
+http://onlyfans.buzz:8080/acasa/KreDrkd9Tz/90505
+#EXTINF:-1 group-title="sajatfavoit" ,HU | AXN
+http://onlyfans.buzz:8080/acasa/KreDrkd9Tz/90511
+#EXTINF:-1 group-title="sajatfavoit" ,HU | Film 1ⓧ
+http://onlyfans.buzz:8080/acasa/KreDrkd9Tz/90547
+#EXTINF:-1 group-title="sajatfavoit" ,HU | Film Cafeⓧ
+http://onlyfans.buzz:8080/acasa/KreDrkd9Tz/90548
+#EXTINF:-1 group-title="sajatfavoit" ,HU | Film Mániaⓧ
+http://onlyfans.buzz:8080/acasa/KreDrkd9Tz/90549
+#EXTINF:-1 group-title="sajatfavoit" ,HU | Film+ⓧ HD
+http://onlyfans.buzz:8080/acasa/KreDrkd9Tz/90550
+#EXTINF:-1 group-title="sajatfavoit" ,HU | HBO 2ⓧ
+http://onlyfans.buzz:8080/acasa/KreDrkd9Tz/90560
+#EXTINF:-1 group-title="sajatfavoit" ,HU | HBO 3ⓧ
+http://onlyfans.buzz:8080/acasa/KreDrkd9Tz/90561
+#EXTINF:-1 group-title="sajatfavoit" ,HU | HBOⓧ
+http://onlyfans.buzz:8080/acasa/KreDrkd9Tz/90562
+#EXTINF:-1 group-title="sajatfavoit" ,HU | Moziⓧ HD
+http://onlyfans.buzz:8080/acasa/KreDrkd9Tz/90579
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://premiereblog.info:8080/images/40d88d5f427cae3df82575ed2077b388.png" ,HU: HBO 2
+http://premiereblog.info:8080/Mihai.Manaila/12344/158341
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://premiereblog.info:8080/images/9b92bf9f29a964aaae233e93e877dd52.png" ,HU: HBO HD
+http://premiereblog.info:8080/Mihai.Manaila/12344/158340
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://premiereblog.info:8080/images/1f8c85ac02e50fee5a8bec5b7f5846c0.png" ,HU: HBO 3
+http://premiereblog.info:8080/Mihai.Manaila/12344/158342
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://premiereblog.info:8080/images/2e5b2c5d03ddce773089fce1cdf99d47.png" ,HU: AMC HD
+http://premiereblog.info:8080/Mihai.Manaila/12344/158347
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://premiereblog.info:8080/images/f73bf339a5e85a569b346788fda81175.png" ,HU: AXN HD
+http://premiereblog.info:8080/Mihai.Manaila/12344/158349
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Filmmania-tp.png/375px-Filmmania-tp.png" ,HU: FILM MANIA
+http://premiereblog.info:8080/Mihai.Manaila/12344/158355
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Film_cafe_hu.png/375px-Film_cafe_hu.png" ,HU: Film Cafe
+http://premiereblog.info:8080/Mihai.Manaila/12344/158357
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://premiereblog.info:8080/images/67d1da0553402bd7457aa42985102c8a.png" ,HU: Film +
+http://premiereblog.info:8080/Mihai.Manaila/12344/158358
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://premiereblog.info:8080/images/5cc0a7f8953932d5cc8c43c09f440195.png" ,HU: MOZI+ HD
+http://premiereblog.info:8080/Mihai.Manaila/12344/158360
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://premiereblog.info:8080/images/172d0b1fe61bf8885332af983fdbaa76.png" ,HU: MOZIVERZUM
+http://premiereblog.info:8080/Mihai.Manaila/12344/158361
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/hbo_hd_wide.png?itok=bRRNCOeW" tvg-id="HBO HD" ,HBO 1 HD
+http://provider-ro.net:8080/CozmaIonut/gYMwdfgW/71097
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" tvg-id="HBO 2 HD" ,HBO 2 HD
+http://provider-ro.net:8080/CozmaIonut/gYMwdfgW/71095
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.pcdays.cz/wp-content/uploads/2016/03/HBO3_HD_3d_transparent-e1458077883683.png" tvg-id="HBO 3 HD" ,HBO 3 HD
+http://provider-ro.net:8080/CozmaIonut/gYMwdfgW/71093
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://wp20-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_149_c_4481f1f32753ee30de0da495bfa9862e.png" tvg-id="filmplus.hu" ,Film+ HD
+http://provider-ro.net:8080/CozmaIonut/gYMwdfgW/71073
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://digitalvac.hu/upcsatorna/film_cafe_hu.png" tvg-id="FILMCAFE" ,Film Cafe HD
+http://provider-ro.net:8080/CozmaIonut/gYMwdfgW/71071
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_9_c_714de3eec92df3993fbd588437750403.png" tvg-id="filmmania.hu" ,Film Mania
+http://provider-ro.net:8080/CozmaIonut/gYMwdfgW/71069
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Moziverzum_logo.png" tvg-id="moziverzum.hu" ,Moziverzum HD
+http://provider-ro.net:8080/CozmaIonut/gYMwdfgW/71066
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://24.p3k.hu/app/uploads/2016/11/mozihd.jpg" tvg-id="moziplus.hu" ,Mozi+ HD
+http://provider-ro.net:8080/CozmaIonut/gYMwdfgW/71063
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/AMC/medium.jpg" tvg-id="AMC HD" ,AMC HD
+http://provider-ro.net:8080/CozmaIonut/gYMwdfgW/71060
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.vhv.rs/dpng/d/177-1771785_axn-hd-logo-2015-axn-hd-logo-hd.png" tvg-id="AXN HD" ,AXN HD
+http://provider-ro.net:8080/CozmaIonut/gYMwdfgW/71058
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/hbo_hd_wide.png?itok=bRRNCOeW" tvg-id="HBO HD" ,HBO 1 HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71097
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" tvg-id="HBO 2 HD" ,HBO 2 HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71095
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.pcdays.cz/wp-content/uploads/2016/03/HBO3_HD_3d_transparent-e1458077883683.png" tvg-id="HBO 3 HD" ,HBO 3 HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71093
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://wp20-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_149_c_4481f1f32753ee30de0da495bfa9862e.png" tvg-id="filmplus.hu" ,Film+ HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71073
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://digitalvac.hu/upcsatorna/film_cafe_hu.png" tvg-id="FILMCAFE" ,Film Cafe HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71071
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Moziverzum_logo.png" tvg-id="moziverzum.hu" ,Moziverzum HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71066
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/1200px-Mozi%2B_logo.svg.png" tvg-id="moziplus.hu" ,Mozi+
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71064
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://24.p3k.hu/app/uploads/2016/11/mozihd.jpg" tvg-id="moziplus.hu" ,Mozi+ HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71063
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/AMC/medium.jpg" tvg-id="AMC HD" ,AMC HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71060
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.vhv.rs/dpng/d/177-1771785_axn-hd-logo-2015-axn-hd-logo-hd.png" tvg-id="AXN HD" ,AXN HD
+http://provider-de.com:8080/Vasyle_home/hXzESz3c/71058
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk3XzE1NTMzOTdf/RmlsbV9DYWZlLnBuZyZoYXNoPTAwZDM4/Yjc5YWVlMDQ0NjBhNWQzZDAxYzVmNDVhMTU1.png" ,HU | Film Cafe TVⓧ
+http://byasmartv.com:8080/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/50062
+#EXTINF:-1 group-title="sajatfavoit" ,HU | Film Mániaⓧ
+http://byasmartv.com:8080/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/50079
+#EXTINF:-1 group-title="sajatfavoit" ,HU | HBO 2ⓧ
+http://byasmartv.com:8080/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/50080
+#EXTINF:-1 group-title="sajatfavoit" ,HU | HBO 3 ⓧ
+http://byasmartv.com:8080/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/50081
+#EXTINF:-1 group-title="sajatfavoit" ,HU | Moziverzumⓧ
+http://byasmartv.com:8080/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/50093
+#EXTINF:-1 group-title="sajatfavoit" ,HU: AMC
+http://ghosttv.space:8080/vasile_florin_sorina/CeaiGGQLKohOITWs2vjO/18275
+#EXTINF:-1 group-title="sajatfavoit" ,HU: AXN
+http://ghosttv.space:8080/vasile_florin_sorina/CeaiGGQLKohOITWs2vjO/18278
+#EXTINF:-1 group-title="sajatfavoit" ,HU: Cartoon Network
+http://ghosttv.space:8080/vasile_florin_sorina/CeaiGGQLKohOITWs2vjO/18282
+#EXTINF:-1 group-title="sajatfavoit" ,HU: Film Mania
+http://ghosttv.space:8080/vasile_florin_sorina/CeaiGGQLKohOITWs2vjO/18295
+#EXTINF:-1 group-title="sajatfavoit" ,HU: FilmCafe
+http://ghosttv.space:8080/vasile_florin_sorina/CeaiGGQLKohOITWs2vjO/18297
+#EXTINF:-1 group-title="sajatfavoit" ,HU: HBO
+http://ghosttv.space:8080/vasile_florin_sorina/CeaiGGQLKohOITWs2vjO/18301
+#EXTINF:-1 group-title="sajatfavoit" ,HU: HBO 2
+http://ghosttv.space:8080/vasile_florin_sorina/CeaiGGQLKohOITWs2vjO/18302
+#EXTINF:-1 group-title="sajatfavoit" ,HU: HBO 3
+http://ghosttv.space:8080/vasile_florin_sorina/CeaiGGQLKohOITWs2vjO/18303
+#EXTINF:-1 group-title="sajatfavoit" ,HU: Mozi
+http://ghosttv.space:8080/vasile_florin_sorina/CeaiGGQLKohOITWs2vjO/18309
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/MOZI+.png" tvg-id="moziplus.hu" ,HU: MOZI HD
+http://sansat.net:88/02059032349024/iu4ntvALfVXYA1H/99288
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/MOZIVERZUM.png" tvg-id="moziverzum.hu" ,HU: MOZIVERZUM
+http://sansat.net:88/02059032349024/iu4ntvALfVXYA1H/99289
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/MOZI+.png" tvg-id="moziplus.hu" ,HU: MOZI
+http://sansat.net:88/02059032349024/iu4ntvALfVXYA1H/99290
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/AMC.png" tvg-id="amc.hu" ,HU: AMC HD
+http://sansat.net:88/02059032349024/iu4ntvALfVXYA1H/99318
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/AXN_HD.png" tvg-id="axn.hu" ,HU: AXN HD
+http://sansat.net:88/02059032349024/iu4ntvALfVXYA1H/99320
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO.png" tvg-id="hbo.hu" ,HU: HBO
+http://sansat.net:88/02059032349024/iu4ntvALfVXYA1H/99329
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO_2_HD.png" tvg-id="hbo2.hu" ,HU: HBO 2 HD
+http://sansat.net:88/02059032349024/iu4ntvALfVXYA1H/99330
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO_3_HD.png" tvg-id="hbo3.hu" ,HU: HBO 3
+http://sansat.net:88/02059032349024/iu4ntvALfVXYA1H/99331
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM_MANIA.png" tvg-id="filmmania.hu" ,HU: FILM MANIA
+http://sansat.net:88/02059032349024/iu4ntvALfVXYA1H/99340
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM+_HD.png" tvg-id="filmplus.hu" ,HU: Film PLUS
+http://sansat.net:88/02059032349024/iu4ntvALfVXYA1H/99344
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM_CAFE.png" tvg-id="filmcafe.hu" ,HU: FILM CAFE
+http://sansat.net:88/02059032349024/iu4ntvALfVXYA1H/99342
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/MOZI+.png" tvg-id="moziplus.hu" ,HU: MOZI HD
+http://sansat.net:88/PY6B9U7HXYJ5GZG/FOU7UEMNGOUZKRC&output=ts/99288
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/MOZIVERZUM.png" tvg-id="moziverzum.hu" ,HU: MOZIVERZUM
+http://sansat.net:88/PY6B9U7HXYJ5GZG/FOU7UEMNGOUZKRC&output=ts/99289
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/MOZI+.png" tvg-id="moziplus.hu" ,HU: MOZI
+http://sansat.net:88/PY6B9U7HXYJ5GZG/FOU7UEMNGOUZKRC&output=ts/99290
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/AMC.png" tvg-id="amc.hu" ,HU: AMC HD
+http://sansat.net:88/PY6B9U7HXYJ5GZG/FOU7UEMNGOUZKRC&output=ts/99318
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/AXN_HD.png" tvg-id="axn.hu" ,HU: AXN HD
+http://sansat.net:88/PY6B9U7HXYJ5GZG/FOU7UEMNGOUZKRC&output=ts/99320
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO.png" tvg-id="hbo.hu" ,HU: HBO
+http://sansat.net:88/PY6B9U7HXYJ5GZG/FOU7UEMNGOUZKRC&output=ts/99329
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO_2_HD.png" tvg-id="hbo2.hu" ,HU: HBO 2 HD
+http://sansat.net:88/PY6B9U7HXYJ5GZG/FOU7UEMNGOUZKRC&output=ts/99330
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO_3_HD.png" tvg-id="hbo3.hu" ,HU: HBO 3
+http://sansat.net:88/PY6B9U7HXYJ5GZG/FOU7UEMNGOUZKRC&output=ts/99331
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM_MANIA.png" tvg-id="filmmania.hu" ,HU: FILM MANIA
+http://sansat.net:88/PY6B9U7HXYJ5GZG/FOU7UEMNGOUZKRC&output=ts/99340
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM_CAFE.png" tvg-id="filmcafe.hu" ,HU: FILM CAFE
+http://sansat.net:88/PY6B9U7HXYJ5GZG/FOU7UEMNGOUZKRC&output=ts/99342
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM+_HD.png" tvg-id="filmplus.hu" ,HU: Film PLUS
+http://sansat.net:88/PY6B9U7HXYJ5GZG/FOU7UEMNGOUZKRC&output=ts/99344
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/MOZI+.png" tvg-id="moziplus.hu" ,HU: MOZI HD
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99288
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/MOZIVERZUM.png" tvg-id="moziverzum.hu" ,HU: MOZIVERZUM
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99289
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/MOZI+.png" tvg-id="moziplus.hu" ,HU: MOZI
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99290
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/AMC.png" tvg-id="amc.hu" ,HU: AMC HD
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99318
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/AXN_HD.png" tvg-id="axn.hu" ,HU: AXN HD
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99320
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO.png" tvg-id="hbo.hu" ,HU: HBO
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99329
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO_2_HD.png" tvg-id="hbo2.hu" ,HU: HBO 2 HD
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99330
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO_3_HD.png" tvg-id="hbo3.hu" ,HU: HBO 3
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99331
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/COOL_TV.png" tvg-id="cool.hu" ,HU: COOL HD
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99335
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM_CAFE.png" tvg-id="filmcafe.hu" ,HU: FILM CAFE
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99342
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM_MANIA.png" tvg-id="filmmania.hu" ,HU: FILM MANIA
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99340
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM+_HD.png" tvg-id="filmplus.hu" ,HU: Film PLUS
+http://www.sansat.net:88/24San41801/cdbVLZvbLshUuYV&output=ts/99344
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/MOZI+.png" tvg-id="moziplus.hu" ,HU: MOZI HD
+http://www.sansat.net:88/3514562131/U78KGYNANEHO4SK&output=ts/99288
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/MOZIVERZUM.png" tvg-id="moziverzum.hu" ,HU: MOZIVERZUM
+http://www.sansat.net:88/3514562131/U78KGYNANEHO4SK&output=ts/99289
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/AMC.png" tvg-id="amc.hu" ,HU: AMC
+http://www.sansat.net:88/3514562131/U78KGYNANEHO4SK&output=ts/99317
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/AXN_HD.png" tvg-id="axn.hu" ,HU: AXN HD
+http://www.sansat.net:88/3514562131/U78KGYNANEHO4SK&output=ts/99320
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO.png" tvg-id="hbo.hu" ,HU: HBO
+http://www.sansat.net:88/3514562131/U78KGYNANEHO4SK&output=ts/99329
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO_2_HD.png" tvg-id="hbo2.hu" ,HU: HBO 2 HD
+http://www.sansat.net:88/3514562131/U78KGYNANEHO4SK&output=ts/99330
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/HBO_3_HD.png" tvg-id="hbo3.hu" ,HU: HBO 3
+http://www.sansat.net:88/3514562131/U78KGYNANEHO4SK&output=ts/99331
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/COOL_TV.png" tvg-id="cool.hu" ,HU: COOL HD
+http://www.sansat.net:88/3514562131/U78KGYNANEHO4SK&output=ts/99335
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM_MANIA.png" tvg-id="filmmania.hu" ,HU: FILM MANIA
+http://www.sansat.net:88/3514562131/U78KGYNANEHO4SK&output=ts/99340
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM_CAFE.png" tvg-id="filmcafe.hu" ,HU: FILM CAFE
+http://www.sansat.net:88/3514562131/U78KGYNANEHO4SK&output=ts/99342
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="http://vodkom.com:25461/Logo/HUNGARY/FILM+_HD.png" tvg-id="filmplus.hu" ,HU: Film PLUS
+http://www.sansat.net:88/3514562131/U78KGYNANEHO4SK&output=ts/99344
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://wp15-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_10_c_1ea569f3a9e35cc16d8b3b175946fd50.png" tvg-id="AMC.hu" ,AMC HD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/3352
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://banner2.cleanpng.com/20180528/gkq/kisspng-popcorn-time-film-bittorrent-pop-corn-5b0cb82da5cad4.4875161615275602376791.jpg" ,24/7 Mr Bean
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/3593
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.vhv.rs/dpng/d/177-1771785_axn-hd-logo-2015-axn-hd-logo-hd.png" tvg-id="AXN.hu" ,AXN HD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/2920
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://invinetwork.hu/csatornak_img_nevvel/coolhd.png" tvg-id="Cool.hu" ,Cool FHD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/8108
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://digitalvac.hu/upcsatorna/film_cafe_hu.png" tvg-id="FilmCafe.hu" ,Film Cafe HD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/2919
+#EXTINF:-1 group-title="sajatfavoit" tvg-id="FilmMania.hu" ,Film Mania HD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/10769
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://wp20-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_149_c_4481f1f32753ee30de0da495bfa9862e.png" tvg-id="FilmPlus.hu" ,Film+ FHD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/4742
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" tvg-id="HBO2.hu" ,HBO 2 HD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/3362
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.pcdays.cz/wp-content/uploads/2016/03/HBO3_HD_3d_transparent-e1458077883683.png" tvg-id="HBOComedy.hu" ,HBO 3 HD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/3346
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/hbo_hd_wide.png" tvg-id="HBO.hu" ,HBO HD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/70
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://24.p3k.hu/app/uploads/2016/11/mozihd.jpg" tvg-id="MoziPlus.hu" ,Mozi+ HD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/97
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Moziverzum_logo.png" tvg-id="Moziverzum.hu" ,Moziverzum HD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/3106
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png" ,NETFLIX
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/9969
+#EXTINF:-1 group-title="sajatfavoit" ,NETFLIX AKCIÓ
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/10292
+#EXTINF:-1 group-title="sajatfavoit" ,NETFLIX DOKUMENTUM
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/10293
+#EXTINF:-1 group-title="sajatfavoit" tvg-logo="https://www.telenet.hu/images/upload/channel_logo/primehd.png" tvg-id="Prime.hu" ,Prime HD
+http://ipwebtv.dyndns.tv:8000/kisseniko/4e4Hr95spO/9389
