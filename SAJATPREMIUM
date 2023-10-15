@@ -1,5 +1,19 @@
 
 #EXTM3U
+#EXTINF:-1 ,-Mese HD
+http://stream2.torba.fun:8080/9X3sS7prTQ/mpegts?token=Iy5GKLuu2JL1lGjV
+#EXTINF:-1 ,DISNEY+
+http://stream2.torba.fun:8080/yOoRLOA9Ia/mpegts?token=Iy5GKLuu2JL1lGjV
+#EXTINF:-1 ,PREMIERE HD
+http://stream2.torba.fun:8080/hUL4PJK8KP/mpegts?token=Iy5GKLuu2JL1lGjV
+#EXTINF:-1 ,MARVEL HD
+http://stream2.torba.fun:8080/azdyPwYXxL/mpegts?token=Iy5GKLuu2JL1lGjV
+#EXTINF:-1 ,NETFLIX HD
+http://stream2.torba.fun:8080/JdrPGwUYT1/mpegts?token=Iy5GKLuu2JL1lGjV
+#EXTINF:-1 ,MOVIE+HD
+http://stream2.torba.fun:8080/I9pDJRbMZD/mpegts?token=Iy5GKLuu2JL1lGjV
+#EXTINF:-1 ,RETRO FILM HD HD
+http://stream2.torba.fun:8080/1Uvn1dHQwd/mpegts?token=Iy5GKLuu2JL1lGjV
 #EXTINF:-1 group-title="MAGYARORSZÁG" tvg-logo="http://royal.mystatichost.com/tv_logok/1_Relax.png" ,RELAX
 http://royal-cdn.eu:8080/s0NZeqqK/a6UqXr1/99084
 #EXTINF:-1 group-title="MAGYARORSZÁG" tvg-logo="http://royal.mystatichost.com/tv_logok/2_M_1_HD.png" tvg-id="m1.hu" ,M1 FHD
